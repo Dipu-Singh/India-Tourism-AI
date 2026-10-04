@@ -1,0 +1,619 @@
+DestinationID,Name,State,Type,Popularity,BestTimeToVisit,Recorded_Year
+1,Taj Mahal,Uttar Pradesh,Historical,9.640705688,Nov-Feb,2025
+2,Agra Fort,Uttar Pradesh,Historical,7.280087169,Nov-Feb,2025
+3,Fatehpur Sikri,Uttar Pradesh,Historical,8.115625901,Nov-Feb,2025
+4,Varanasi Ghats,Uttar Pradesh,Religious,9.698335248,Oct-Mar,2025
+5,Sarnath,Uttar Pradesh,Religious,9.323122943,Oct-Mar,2025
+6,Ayodhya Ram Mandir,Uttar Pradesh,Religious,8.080877871,Oct-Mar,2025
+7,Mathura,Uttar Pradesh,Religious,9.604662342,Oct-Mar,2025
+8,Vrindavan,Uttar Pradesh,Religious,8.464272255,Oct-Mar,2025
+9,Bara Imambara,Uttar Pradesh,Historical,8.792259305,Oct-Mar,2025
+10,Rumi Darwaza,Uttar Pradesh,Historical,9.716047508,Oct-Mar,2025
+11,India Gate,Delhi,Historical,9.025247707,Oct-Mar,2025
+12,Red Fort,Delhi,Historical,8.328109594,Oct-Mar,2025
+13,Qutub Minar,Delhi,Historical,8.043336802,Oct-Mar,2025
+14,Humayun's Tomb,Delhi,Historical,8.671866125,Oct-Mar,2025
+15,Lotus Temple,Delhi,Religious,8.370285861,Oct-Mar,2025
+16,Akshardham,Delhi,Religious,7.407713903,Oct-Mar,2025
+17,Golden Temple,Punjab,Religious,9.779056795,Oct-Mar,2025
+18,Wagah Border,Punjab,Cultural,8.189097019,Oct-Mar,2025
+19,Jallianwala Bagh,Punjab,Historical,8.195322074,Oct-Mar,2025
+20,Rock Garden,Chandigarh,Nature,8.239086067,Sep-Mar,2025
+21,Amer Fort,Rajasthan,Historical,7.774173275,Oct-Mar,2025
+22,Hawa Mahal,Rajasthan,Historical,8.663738334,Oct-Mar,2025
+23,City Palace Jaipur,Rajasthan,Historical,7.906631603,Oct-Mar,2025
+24,Jantar Mantar Jaipur,Rajasthan,Historical,8.344159225,Oct-Mar,2025
+25,Jal Mahal,Rajasthan,Historical,9.369314957,Oct-Mar,2025
+26,Mehrangarh Fort,Rajasthan,Historical,7.495333714,Oct-Mar,2025
+27,Umaid Bhawan Palace,Rajasthan,Historical,7.822950186,Oct-Mar,2025
+28,Lake Pichola,Rajasthan,Nature,7.555965504,Oct-Mar,2025
+29,City Palace Udaipur,Rajasthan,Historical,7.353302999,Oct-Mar,2025
+30,Jaisalmer Fort,Rajasthan,Historical,8.275645631,Oct-Mar,2025
+31,Sam Sand Dunes,Rajasthan,Nature,9.300856162,Oct-Mar,2025
+32,Pushkar Lake,Rajasthan,Religious,8.973944288,Oct-Mar,2025
+33,Ajmer Sharif Dargah,Rajasthan,Religious,7.171921461,Oct-Mar,2025
+34,Dal Lake,Jammu & Kashmir,Nature,9.975129452,Apr-Oct,2025
+35,Gulmarg,Jammu & Kashmir,Nature,7.001897942,Apr-Oct,2025
+36,Pahalgam,Jammu & Kashmir,Nature,8.671187311,Apr-Oct,2025
+37,Sonamarg,Jammu & Kashmir,Nature,9.048560035,Apr-Oct,2025
+38,Pangong Lake,Ladakh,Nature,7.268048791,May-Sep,2025
+39,Nubra Valley,Ladakh,Nature,7.636397353,May-Sep,2025
+40,Leh Palace,Ladakh,Historical,9.743189837,May-Sep,2025
+41,Shimla,Himachal Pradesh,Nature,9.218358299,Mar-Jun,2025
+42,Kufri,Himachal Pradesh,Nature,9.339217387,Mar-Jun,2025
+43,Manali,Himachal Pradesh,Nature,9.244445579,Mar-Jun,2025
+44,Solang Valley,Himachal Pradesh,Nature,8.97419991,Mar-Jun,2025
+45,Dharamshala,Himachal Pradesh,Nature,8.062441974,Mar-Jun,2025
+46,Dalhousie,Himachal Pradesh,Nature,9.436255011,Mar-Jun,2025
+47,Rishikesh,Uttarakhand,Religious,9.268943593,Sep-Nov,2025
+48,Haridwar,Uttarakhand,Religious,7.302532981,Sep-Nov,2025
+49,Kedarnath Temple,Uttarakhand,Religious,7.482552762,May-Oct,2025
+50,Badrinath Temple,Uttarakhand,Religious,8.070889411,May-Oct,2025
+51,Valley of Flowers,Uttarakhand,Nature,7.338625516,Jul-Sep,2025
+52,Nainital,Uttarakhand,Nature,7.390239631,Mar-Jun,2025
+53,Jim Corbett National Park,Uttarakhand,Wildlife,9.37883458,Nov-Jun,2025
+54,Bodh Gaya,Bihar,Religious,9.131237824,Oct-Mar,2025
+55,Nalanda Ruins,Bihar,Historical,7.810838781,Oct-Mar,2025
+56,Rajgir,Bihar,Historical,9.945290186,Oct-Mar,2025
+57,Victoria Memorial,West Bengal,Historical,7.584748899,Oct-Mar,2025
+58,Howrah Bridge,West Bengal,Historical,9.24414881,Oct-Mar,2025
+59,Darjeeling,West Bengal,Nature,9.724442031,Mar-May,2025
+60,Tiger Hill,West Bengal,Nature,7.005963063,Mar-May,2025
+61,Sundarbans National Park,West Bengal,Wildlife,8.073054171,Sep-Mar,2025
+62,Konark Sun Temple,Odisha,Historical,8.522583011,Sep-Mar,2025
+63,Jagannath Temple,Odisha,Religious,8.882515455,Sep-Mar,2025
+64,Puri Beach,Odisha,Nature,9.177394737,Sep-Mar,2025
+65,Chilika Lake,Odisha,Nature,9.675494149,Nov-Feb,2025
+66,Charminar,Telangana,Historical,9.347661123,Oct-Mar,2025
+67,Golconda Fort,Telangana,Historical,8.322666889,Oct-Mar,2025
+68,Ramoji Film City,Telangana,Entertainment,9.809276347,Oct-Mar,2025
+69,Tirupati Temple,Andhra Pradesh,Religious,7.956301521,Sep-Feb,2025
+70,Araku Valley,Andhra Pradesh,Nature,7.068405016,Sep-Feb,2025
+71,RK Beach,Andhra Pradesh,Nature,8.439550752,Oct-Mar,2025
+72,Gateway of India,Maharashtra,Historical,7.321453017,Oct-Mar,2025
+73,Marine Drive,Maharashtra,Nature,7.245834115,Oct-Mar,2025
+74,Elephanta Caves,Maharashtra,Historical,7.454346621,Nov-Feb,2025
+75,Shirdi,Maharashtra,Religious,7.499803976,Sep-Mar,2025
+76,Ajanta Caves,Maharashtra,Historical,9.320704602,Oct-Mar,2025
+77,Ellora Caves,Maharashtra,Historical,7.175621355,Oct-Mar,2025
+78,Mahabaleshwar,Maharashtra,Nature,7.407077252,Oct-Jun,2025
+79,Lonavala,Maharashtra,Nature,7.233938726,Oct-May,2025
+80,Mysore Palace,Karnataka,Historical,9.807263731,Oct-Mar,2025
+81,Coorg,Karnataka,Nature,9.359810242,Oct-Mar,2025
+82,Hampi,Karnataka,Historical,7.826459375,Oct-Mar,2025
+83,Jog Falls,Karnataka,Nature,9.602817491,Aug-Dec,2025
+84,Bangalore Palace,Karnataka,Historical,8.643645697,Oct-Mar,2025
+85,Meenakshi Temple,Tamil Nadu,Religious,9.140460873,Oct-Mar,2025
+86,Marina Beach,Tamil Nadu,Nature,7.635620105,Nov-Feb,2025
+87,Ooty,Tamil Nadu,Nature,9.718172499,Oct-Jun,2025
+88,Kodaikanal,Tamil Nadu,Nature,8.551142293,Oct-Jun,2025
+89,Mahabalipuram,Tamil Nadu,Historical,8.555352445,Nov-Feb,2025
+90,Alleppey Backwaters,Kerala,Nature,8.79599538,Sep-Mar,2025
+91,Munnar,Kerala,Nature,9.247216812,Sep-Mar,2025
+92,Periyar National Park,Kerala,Wildlife,8.210852276,Sep-Mar,2025
+93,Kovalam Beach,Kerala,Nature,9.896920967,Sep-Mar,2025
+94,Fort Kochi,Kerala,Historical,7.689590589,Sep-Mar,2025
+95,Baga Beach,Goa,Nature,7.450730631,Nov-Feb,2025
+96,Calangute Beach,Goa,Nature,7.576396011,Nov-Feb,2025
+97,Dudhsagar Falls,Goa,Nature,9.409662467,Oct-May,2025
+98,Basilica of Bom Jesus,Goa,Religious,7.510274182,Nov-Feb,2025
+99,Statue of Unity,Gujarat,Historical,7.292092422,Oct-Mar,2025
+100,Somnath Temple,Gujarat,Religious,7.254485357,Oct-Mar,2025
+101,Dwarkadhish Temple,Gujarat,Religious,9.820794248,Oct-Mar,2025
+102,Rann of Kutch,Gujarat,Nature,7.28931666,Nov-Feb,2025
+103,Gir National Park,Gujarat,Wildlife,7.811560438,Dec-Mar,2025
+1,Taj Mahal,Uttar Pradesh,Historical,7.777292313,Nov-Feb,2024
+2,Agra Fort,Uttar Pradesh,Historical,8.515180071,Nov-Feb,2024
+3,Fatehpur Sikri,Uttar Pradesh,Historical,8.882537705,Nov-Feb,2024
+4,Varanasi Ghats,Uttar Pradesh,Religious,8.185695566,Oct-Mar,2024
+5,Sarnath,Uttar Pradesh,Religious,9.777083801,Oct-Mar,2024
+6,Ayodhya Ram Mandir,Uttar Pradesh,Religious,8.250483489,Oct-Mar,2024
+7,Mathura,Uttar Pradesh,Religious,9.667321435,Oct-Mar,2024
+8,Vrindavan,Uttar Pradesh,Religious,7.586153209,Oct-Mar,2024
+9,Bara Imambara,Uttar Pradesh,Historical,9.478864765,Oct-Mar,2024
+10,Rumi Darwaza,Uttar Pradesh,Historical,9.362227102,Oct-Mar,2024
+11,India Gate,Delhi,Historical,9.837409546,Oct-Mar,2024
+12,Red Fort,Delhi,Historical,7.115157048,Oct-Mar,2024
+13,Qutub Minar,Delhi,Historical,8.550792362,Oct-Mar,2024
+14,Humayun's Tomb,Delhi,Historical,9.430894081,Oct-Mar,2024
+15,Lotus Temple,Delhi,Religious,7.041778955,Oct-Mar,2024
+16,Akshardham,Delhi,Religious,9.726804258,Oct-Mar,2024
+17,Golden Temple,Punjab,Religious,8.19490009,Oct-Mar,2024
+18,Wagah Border,Punjab,Cultural,9.374421657,Oct-Mar,2024
+19,Jallianwala Bagh,Punjab,Historical,8.691059566,Oct-Mar,2024
+20,Rock Garden,Chandigarh,Nature,7.143937027,Sep-Mar,2024
+21,Amer Fort,Rajasthan,Historical,8.42219336,Oct-Mar,2024
+22,Hawa Mahal,Rajasthan,Historical,8.889394257,Oct-Mar,2024
+23,City Palace Jaipur,Rajasthan,Historical,8.550847598,Oct-Mar,2024
+24,Jantar Mantar Jaipur,Rajasthan,Historical,8.349651521,Oct-Mar,2024
+25,Jal Mahal,Rajasthan,Historical,7.736449936,Oct-Mar,2024
+26,Mehrangarh Fort,Rajasthan,Historical,8.092958069,Oct-Mar,2024
+27,Umaid Bhawan Palace,Rajasthan,Historical,9.255915873,Oct-Mar,2024
+28,Lake Pichola,Rajasthan,Nature,8.270601163,Oct-Mar,2024
+29,City Palace Udaipur,Rajasthan,Historical,9.950085158,Oct-Mar,2024
+30,Jaisalmer Fort,Rajasthan,Historical,8.114937263,Oct-Mar,2024
+31,Sam Sand Dunes,Rajasthan,Nature,7.112722782,Oct-Mar,2024
+32,Pushkar Lake,Rajasthan,Religious,8.776087222,Oct-Mar,2024
+33,Ajmer Sharif Dargah,Rajasthan,Religious,9.573211704,Oct-Mar,2024
+34,Dal Lake,Jammu & Kashmir,Nature,8.255844479,Apr-Oct,2024
+35,Gulmarg,Jammu & Kashmir,Nature,8.009769657,Apr-Oct,2024
+36,Pahalgam,Jammu & Kashmir,Nature,7.092515858,Apr-Oct,2024
+37,Sonamarg,Jammu & Kashmir,Nature,7.153550704,Apr-Oct,2024
+38,Pangong Lake,Ladakh,Nature,7.161438512,May-Sep,2024
+39,Nubra Valley,Ladakh,Nature,7.426254027,May-Sep,2024
+40,Leh Palace,Ladakh,Historical,9.177135546,May-Sep,2024
+41,Shimla,Himachal Pradesh,Nature,7.100121243,Mar-Jun,2024
+42,Kufri,Himachal Pradesh,Nature,9.268193161,Mar-Jun,2024
+43,Manali,Himachal Pradesh,Nature,7.419115681,Mar-Jun,2024
+44,Solang Valley,Himachal Pradesh,Nature,7.508056795,Mar-Jun,2024
+45,Dharamshala,Himachal Pradesh,Nature,8.897660834,Mar-Jun,2024
+46,Dalhousie,Himachal Pradesh,Nature,9.546502206,Mar-Jun,2024
+47,Rishikesh,Uttarakhand,Religious,7.076969997,Sep-Nov,2024
+48,Haridwar,Uttarakhand,Religious,9.1293901,Sep-Nov,2024
+49,Kedarnath Temple,Uttarakhand,Religious,8.211502268,May-Oct,2024
+50,Badrinath Temple,Uttarakhand,Religious,8.30965671,May-Oct,2024
+51,Valley of Flowers,Uttarakhand,Nature,9.256572244,Jul-Sep,2024
+52,Nainital,Uttarakhand,Nature,7.640924451,Mar-Jun,2024
+53,Jim Corbett National Park,Uttarakhand,Wildlife,7.194155164,Nov-Jun,2024
+54,Bodh Gaya,Bihar,Religious,8.566590619,Oct-Mar,2024
+55,Nalanda Ruins,Bihar,Historical,9.463354302,Oct-Mar,2024
+56,Rajgir,Bihar,Historical,9.141105992,Oct-Mar,2024
+57,Victoria Memorial,West Bengal,Historical,8.335115132,Oct-Mar,2024
+58,Howrah Bridge,West Bengal,Historical,7.07510382,Oct-Mar,2024
+59,Darjeeling,West Bengal,Nature,8.50222426,Mar-May,2024
+60,Tiger Hill,West Bengal,Nature,9.920160158,Mar-May,2024
+61,Sundarbans National Park,West Bengal,Wildlife,8.444445158,Sep-Mar,2024
+62,Konark Sun Temple,Odisha,Historical,8.899729908,Sep-Mar,2024
+63,Jagannath Temple,Odisha,Religious,7.0082171,Sep-Mar,2024
+64,Puri Beach,Odisha,Nature,7.957038509,Sep-Mar,2024
+65,Chilika Lake,Odisha,Nature,7.828449696,Nov-Feb,2024
+66,Charminar,Telangana,Historical,7.894629042,Oct-Mar,2024
+67,Golconda Fort,Telangana,Historical,9.168733997,Oct-Mar,2024
+68,Ramoji Film City,Telangana,Entertainment,8.999456538,Oct-Mar,2024
+69,Tirupati Temple,Andhra Pradesh,Religious,7.402282488,Sep-Feb,2024
+70,Araku Valley,Andhra Pradesh,Nature,9.116846625,Sep-Feb,2024
+71,RK Beach,Andhra Pradesh,Nature,8.870005539,Oct-Mar,2024
+72,Gateway of India,Maharashtra,Historical,8.200623873,Oct-Mar,2024
+73,Marine Drive,Maharashtra,Nature,9.389605367,Oct-Mar,2024
+74,Elephanta Caves,Maharashtra,Historical,7.728988918,Nov-Feb,2024
+75,Shirdi,Maharashtra,Religious,9.140062419,Sep-Mar,2024
+76,Ajanta Caves,Maharashtra,Historical,8.949356572,Oct-Mar,2024
+77,Ellora Caves,Maharashtra,Historical,9.383436667,Oct-Mar,2024
+78,Mahabaleshwar,Maharashtra,Nature,9.472828141,Oct-Jun,2024
+79,Lonavala,Maharashtra,Nature,8.118896825,Oct-May,2024
+80,Mysore Palace,Karnataka,Historical,8.662094514,Oct-Mar,2024
+81,Coorg,Karnataka,Nature,9.885102341,Oct-Mar,2024
+82,Hampi,Karnataka,Historical,8.286560333,Oct-Mar,2024
+83,Jog Falls,Karnataka,Nature,9.86364461,Aug-Dec,2024
+84,Bangalore Palace,Karnataka,Historical,7.90593414,Oct-Mar,2024
+85,Meenakshi Temple,Tamil Nadu,Religious,8.999725956,Oct-Mar,2024
+86,Marina Beach,Tamil Nadu,Nature,8.098400896,Nov-Feb,2024
+87,Ooty,Tamil Nadu,Nature,9.092517711,Oct-Jun,2024
+88,Kodaikanal,Tamil Nadu,Nature,7.291123521,Oct-Jun,2024
+89,Mahabalipuram,Tamil Nadu,Historical,7.74696764,Nov-Feb,2024
+90,Alleppey Backwaters,Kerala,Nature,7.257912268,Sep-Mar,2024
+91,Munnar,Kerala,Nature,8.485864492,Sep-Mar,2024
+92,Periyar National Park,Kerala,Wildlife,9.109550204,Sep-Mar,2024
+93,Kovalam Beach,Kerala,Nature,8.444744595,Sep-Mar,2024
+94,Fort Kochi,Kerala,Historical,9.463920403,Sep-Mar,2024
+95,Baga Beach,Goa,Nature,8.396134346,Nov-Feb,2024
+96,Calangute Beach,Goa,Nature,9.70259145,Nov-Feb,2024
+97,Dudhsagar Falls,Goa,Nature,8.841440135,Oct-May,2024
+98,Basilica of Bom Jesus,Goa,Religious,8.414087118,Nov-Feb,2024
+99,Statue of Unity,Gujarat,Historical,8.770670786,Oct-Mar,2024
+100,Somnath Temple,Gujarat,Religious,7.01727899,Oct-Mar,2024
+101,Dwarkadhish Temple,Gujarat,Religious,9.108631094,Oct-Mar,2024
+102,Rann of Kutch,Gujarat,Nature,9.736166394,Nov-Feb,2024
+103,Gir National Park,Gujarat,Wildlife,9.762156072,Dec-Mar,2024
+1,Taj Mahal,Uttar Pradesh,Historical,8.754069671,Nov-Feb,2023
+2,Agra Fort,Uttar Pradesh,Historical,8.461637503,Nov-Feb,2023
+3,Fatehpur Sikri,Uttar Pradesh,Historical,8.064683663,Nov-Feb,2023
+4,Varanasi Ghats,Uttar Pradesh,Religious,9.891179238,Oct-Mar,2023
+5,Sarnath,Uttar Pradesh,Religious,8.922596644,Oct-Mar,2023
+6,Ayodhya Ram Mandir,Uttar Pradesh,Religious,7.049220456,Oct-Mar,2023
+7,Mathura,Uttar Pradesh,Religious,8.399237631,Oct-Mar,2023
+8,Vrindavan,Uttar Pradesh,Religious,9.73379673,Oct-Mar,2023
+9,Bara Imambara,Uttar Pradesh,Historical,9.503613238,Oct-Mar,2023
+10,Rumi Darwaza,Uttar Pradesh,Historical,8.84652977,Oct-Mar,2023
+11,India Gate,Delhi,Historical,9.121836348,Oct-Mar,2023
+12,Red Fort,Delhi,Historical,7.934104404,Oct-Mar,2023
+13,Qutub Minar,Delhi,Historical,9.265927204,Oct-Mar,2023
+14,Humayun's Tomb,Delhi,Historical,8.596924301,Oct-Mar,2023
+15,Lotus Temple,Delhi,Religious,9.260638688,Oct-Mar,2023
+16,Akshardham,Delhi,Religious,8.887737633,Oct-Mar,2023
+17,Golden Temple,Punjab,Religious,9.606458292,Oct-Mar,2023
+18,Wagah Border,Punjab,Cultural,9.378562367,Oct-Mar,2023
+19,Jallianwala Bagh,Punjab,Historical,9.766184027,Oct-Mar,2023
+20,Rock Garden,Chandigarh,Nature,9.706864622,Sep-Mar,2023
+21,Amer Fort,Rajasthan,Historical,8.569639493,Oct-Mar,2023
+22,Hawa Mahal,Rajasthan,Historical,8.120683281,Oct-Mar,2023
+23,City Palace Jaipur,Rajasthan,Historical,7.713654318,Oct-Mar,2023
+24,Jantar Mantar Jaipur,Rajasthan,Historical,8.060636045,Oct-Mar,2023
+25,Jal Mahal,Rajasthan,Historical,7.959216511,Oct-Mar,2023
+26,Mehrangarh Fort,Rajasthan,Historical,9.362273247,Oct-Mar,2023
+27,Umaid Bhawan Palace,Rajasthan,Historical,7.460922487,Oct-Mar,2023
+28,Lake Pichola,Rajasthan,Nature,8.187204235,Oct-Mar,2023
+29,City Palace Udaipur,Rajasthan,Historical,7.681087749,Oct-Mar,2023
+30,Jaisalmer Fort,Rajasthan,Historical,8.732334572,Oct-Mar,2023
+31,Sam Sand Dunes,Rajasthan,Nature,9.87710351,Oct-Mar,2023
+32,Pushkar Lake,Rajasthan,Religious,9.794321553,Oct-Mar,2023
+33,Ajmer Sharif Dargah,Rajasthan,Religious,7.15016105,Oct-Mar,2023
+34,Dal Lake,Jammu & Kashmir,Nature,7.036247139,Apr-Oct,2023
+35,Gulmarg,Jammu & Kashmir,Nature,8.81003401,Apr-Oct,2023
+36,Pahalgam,Jammu & Kashmir,Nature,7.705176594,Apr-Oct,2023
+37,Sonamarg,Jammu & Kashmir,Nature,7.757291174,Apr-Oct,2023
+38,Pangong Lake,Ladakh,Nature,8.456738824,May-Sep,2023
+39,Nubra Valley,Ladakh,Nature,9.983568065,May-Sep,2023
+40,Leh Palace,Ladakh,Historical,9.96452667,May-Sep,2023
+41,Shimla,Himachal Pradesh,Nature,9.024197327,Mar-Jun,2023
+42,Kufri,Himachal Pradesh,Nature,9.220750789,Mar-Jun,2023
+43,Manali,Himachal Pradesh,Nature,9.506787959,Mar-Jun,2023
+44,Solang Valley,Himachal Pradesh,Nature,7.697331523,Mar-Jun,2023
+45,Dharamshala,Himachal Pradesh,Nature,8.174844841,Mar-Jun,2023
+46,Dalhousie,Himachal Pradesh,Nature,7.145010094,Mar-Jun,2023
+47,Rishikesh,Uttarakhand,Religious,9.137188669,Sep-Nov,2023
+48,Haridwar,Uttarakhand,Religious,7.307992685,Sep-Nov,2023
+49,Kedarnath Temple,Uttarakhand,Religious,9.421113198,May-Oct,2023
+50,Badrinath Temple,Uttarakhand,Religious,9.753393649,May-Oct,2023
+51,Valley of Flowers,Uttarakhand,Nature,8.368606397,Jul-Sep,2023
+52,Nainital,Uttarakhand,Nature,7.622951448,Mar-Jun,2023
+53,Jim Corbett National Park,Uttarakhand,Wildlife,7.298656729,Nov-Jun,2023
+54,Bodh Gaya,Bihar,Religious,9.158192421,Oct-Mar,2023
+55,Nalanda Ruins,Bihar,Historical,9.312122958,Oct-Mar,2023
+56,Rajgir,Bihar,Historical,8.312796171,Oct-Mar,2023
+57,Victoria Memorial,West Bengal,Historical,7.895700963,Oct-Mar,2023
+58,Howrah Bridge,West Bengal,Historical,9.615156611,Oct-Mar,2023
+59,Darjeeling,West Bengal,Nature,9.204387559,Mar-May,2023
+60,Tiger Hill,West Bengal,Nature,9.38217912,Mar-May,2023
+61,Sundarbans National Park,West Bengal,Wildlife,8.793103864,Sep-Mar,2023
+62,Konark Sun Temple,Odisha,Historical,9.598727436,Sep-Mar,2023
+63,Jagannath Temple,Odisha,Religious,7.212758891,Sep-Mar,2023
+64,Puri Beach,Odisha,Nature,8.686739618,Sep-Mar,2023
+65,Chilika Lake,Odisha,Nature,9.97834613,Nov-Feb,2023
+66,Charminar,Telangana,Historical,8.399133723,Oct-Mar,2023
+67,Golconda Fort,Telangana,Historical,7.010382341,Oct-Mar,2023
+68,Ramoji Film City,Telangana,Entertainment,9.325881722,Oct-Mar,2023
+69,Tirupati Temple,Andhra Pradesh,Religious,9.909201881,Sep-Feb,2023
+70,Araku Valley,Andhra Pradesh,Nature,9.617055505,Sep-Feb,2023
+71,RK Beach,Andhra Pradesh,Nature,7.366776823,Oct-Mar,2023
+72,Gateway of India,Maharashtra,Historical,8.368649516,Oct-Mar,2023
+73,Marine Drive,Maharashtra,Nature,9.284676111,Oct-Mar,2023
+74,Elephanta Caves,Maharashtra,Historical,8.524329427,Nov-Feb,2023
+75,Shirdi,Maharashtra,Religious,9.740716397,Sep-Mar,2023
+76,Ajanta Caves,Maharashtra,Historical,8.697094396,Oct-Mar,2023
+77,Ellora Caves,Maharashtra,Historical,8.931381353,Oct-Mar,2023
+78,Mahabaleshwar,Maharashtra,Nature,8.070695424,Oct-Jun,2023
+79,Lonavala,Maharashtra,Nature,8.572155097,Oct-May,2023
+80,Mysore Palace,Karnataka,Historical,9.797425917,Oct-Mar,2023
+81,Coorg,Karnataka,Nature,9.532862645,Oct-Mar,2023
+82,Hampi,Karnataka,Historical,8.346856268,Oct-Mar,2023
+83,Jog Falls,Karnataka,Nature,9.648651511,Aug-Dec,2023
+84,Bangalore Palace,Karnataka,Historical,9.093886536,Oct-Mar,2023
+85,Meenakshi Temple,Tamil Nadu,Religious,9.717464796,Oct-Mar,2023
+86,Marina Beach,Tamil Nadu,Nature,7.563145914,Nov-Feb,2023
+87,Ooty,Tamil Nadu,Nature,8.569211856,Oct-Jun,2023
+88,Kodaikanal,Tamil Nadu,Nature,9.903687627,Oct-Jun,2023
+89,Mahabalipuram,Tamil Nadu,Historical,9.277172161,Nov-Feb,2023
+90,Alleppey Backwaters,Kerala,Nature,9.070875949,Sep-Mar,2023
+91,Munnar,Kerala,Nature,7.944681755,Sep-Mar,2023
+92,Periyar National Park,Kerala,Wildlife,8.293496187,Sep-Mar,2023
+93,Kovalam Beach,Kerala,Nature,8.015438325,Sep-Mar,2023
+94,Fort Kochi,Kerala,Historical,7.639952119,Sep-Mar,2023
+95,Baga Beach,Goa,Nature,9.558777195,Nov-Feb,2023
+96,Calangute Beach,Goa,Nature,9.038855461,Nov-Feb,2023
+97,Dudhsagar Falls,Goa,Nature,7.916356743,Oct-May,2023
+98,Basilica of Bom Jesus,Goa,Religious,7.111627686,Nov-Feb,2023
+99,Statue of Unity,Gujarat,Historical,8.267555444,Oct-Mar,2023
+100,Somnath Temple,Gujarat,Religious,9.527574574,Oct-Mar,2023
+101,Dwarkadhish Temple,Gujarat,Religious,7.990611312,Oct-Mar,2023
+102,Rann of Kutch,Gujarat,Nature,9.669282074,Nov-Feb,2023
+103,Gir National Park,Gujarat,Wildlife,7.937589589,Dec-Mar,2023
+1,Taj Mahal,Uttar Pradesh,Historical,9.806519408,Nov-Feb,2022
+2,Agra Fort,Uttar Pradesh,Historical,8.285480836,Nov-Feb,2022
+3,Fatehpur Sikri,Uttar Pradesh,Historical,7.312888397,Nov-Feb,2022
+4,Varanasi Ghats,Uttar Pradesh,Religious,9.214318965,Oct-Mar,2022
+5,Sarnath,Uttar Pradesh,Religious,7.048385263,Oct-Mar,2022
+6,Ayodhya Ram Mandir,Uttar Pradesh,Religious,7.146757799,Oct-Mar,2022
+7,Mathura,Uttar Pradesh,Religious,7.68435571,Oct-Mar,2022
+8,Vrindavan,Uttar Pradesh,Religious,9.372010329,Oct-Mar,2022
+9,Bara Imambara,Uttar Pradesh,Historical,9.510931113,Oct-Mar,2022
+10,Rumi Darwaza,Uttar Pradesh,Historical,9.889776532,Oct-Mar,2022
+11,India Gate,Delhi,Historical,9.171206529,Oct-Mar,2022
+12,Red Fort,Delhi,Historical,8.925475155,Oct-Mar,2022
+13,Qutub Minar,Delhi,Historical,7.575802124,Oct-Mar,2022
+14,Humayun's Tomb,Delhi,Historical,8.574834127,Oct-Mar,2022
+15,Lotus Temple,Delhi,Religious,9.215070881,Oct-Mar,2022
+16,Akshardham,Delhi,Religious,9.081149043,Oct-Mar,2022
+17,Golden Temple,Punjab,Religious,8.687467563,Oct-Mar,2022
+18,Wagah Border,Punjab,Cultural,8.589121143,Oct-Mar,2022
+19,Jallianwala Bagh,Punjab,Historical,8.969255991,Oct-Mar,2022
+20,Rock Garden,Chandigarh,Nature,8.471350183,Sep-Mar,2022
+21,Amer Fort,Rajasthan,Historical,9.964948596,Oct-Mar,2022
+22,Hawa Mahal,Rajasthan,Historical,9.212865585,Oct-Mar,2022
+23,City Palace Jaipur,Rajasthan,Historical,7.886169627,Oct-Mar,2022
+24,Jantar Mantar Jaipur,Rajasthan,Historical,9.950495392,Oct-Mar,2022
+25,Jal Mahal,Rajasthan,Historical,7.929907792,Oct-Mar,2022
+26,Mehrangarh Fort,Rajasthan,Historical,7.291731573,Oct-Mar,2022
+27,Umaid Bhawan Palace,Rajasthan,Historical,7.47065139,Oct-Mar,2022
+28,Lake Pichola,Rajasthan,Nature,7.535762497,Oct-Mar,2022
+29,City Palace Udaipur,Rajasthan,Historical,7.184323685,Oct-Mar,2022
+30,Jaisalmer Fort,Rajasthan,Historical,9.550596127,Oct-Mar,2022
+31,Sam Sand Dunes,Rajasthan,Nature,7.309289104,Oct-Mar,2022
+32,Pushkar Lake,Rajasthan,Religious,7.847148996,Oct-Mar,2022
+33,Ajmer Sharif Dargah,Rajasthan,Religious,7.979368208,Oct-Mar,2022
+34,Dal Lake,Jammu & Kashmir,Nature,9.965668181,Apr-Oct,2022
+35,Gulmarg,Jammu & Kashmir,Nature,7.578569915,Apr-Oct,2022
+36,Pahalgam,Jammu & Kashmir,Nature,7.643087978,Apr-Oct,2022
+37,Sonamarg,Jammu & Kashmir,Nature,9.444256979,Apr-Oct,2022
+38,Pangong Lake,Ladakh,Nature,9.96249539,May-Sep,2022
+39,Nubra Valley,Ladakh,Nature,7.546240365,May-Sep,2022
+40,Leh Palace,Ladakh,Historical,9.257743002,May-Sep,2022
+41,Shimla,Himachal Pradesh,Nature,7.789738574,Mar-Jun,2022
+42,Kufri,Himachal Pradesh,Nature,8.026743257,Mar-Jun,2022
+43,Manali,Himachal Pradesh,Nature,8.110523034,Mar-Jun,2022
+44,Solang Valley,Himachal Pradesh,Nature,8.924814841,Mar-Jun,2022
+45,Dharamshala,Himachal Pradesh,Nature,7.065537171,Mar-Jun,2022
+46,Dalhousie,Himachal Pradesh,Nature,7.602716298,Mar-Jun,2022
+47,Rishikesh,Uttarakhand,Religious,7.1708589,Sep-Nov,2022
+48,Haridwar,Uttarakhand,Religious,9.120153749,Sep-Nov,2022
+49,Kedarnath Temple,Uttarakhand,Religious,8.03446392,May-Oct,2022
+50,Badrinath Temple,Uttarakhand,Religious,7.911426022,May-Oct,2022
+51,Valley of Flowers,Uttarakhand,Nature,9.591621867,Jul-Sep,2022
+52,Nainital,Uttarakhand,Nature,8.171681869,Mar-Jun,2022
+53,Jim Corbett National Park,Uttarakhand,Wildlife,8.428057519,Nov-Jun,2022
+54,Bodh Gaya,Bihar,Religious,8.545597012,Oct-Mar,2022
+55,Nalanda Ruins,Bihar,Historical,8.70677047,Oct-Mar,2022
+56,Rajgir,Bihar,Historical,7.470091165,Oct-Mar,2022
+57,Victoria Memorial,West Bengal,Historical,7.26951497,Oct-Mar,2022
+58,Howrah Bridge,West Bengal,Historical,8.393339655,Oct-Mar,2022
+59,Darjeeling,West Bengal,Nature,9.718679861,Mar-May,2022
+60,Tiger Hill,West Bengal,Nature,9.667493993,Mar-May,2022
+61,Sundarbans National Park,West Bengal,Wildlife,7.089322318,Sep-Mar,2022
+62,Konark Sun Temple,Odisha,Historical,7.605300925,Sep-Mar,2022
+63,Jagannath Temple,Odisha,Religious,9.968416831,Sep-Mar,2022
+64,Puri Beach,Odisha,Nature,9.273662919,Sep-Mar,2022
+65,Chilika Lake,Odisha,Nature,8.717391241,Nov-Feb,2022
+66,Charminar,Telangana,Historical,7.951943519,Oct-Mar,2022
+67,Golconda Fort,Telangana,Historical,8.89749688,Oct-Mar,2022
+68,Ramoji Film City,Telangana,Entertainment,7.050708913,Oct-Mar,2022
+69,Tirupati Temple,Andhra Pradesh,Religious,8.912658222,Sep-Feb,2022
+70,Araku Valley,Andhra Pradesh,Nature,9.0181889,Sep-Feb,2022
+71,RK Beach,Andhra Pradesh,Nature,9.58268387,Oct-Mar,2022
+72,Gateway of India,Maharashtra,Historical,9.567006839,Oct-Mar,2022
+73,Marine Drive,Maharashtra,Nature,8.387000946,Oct-Mar,2022
+74,Elephanta Caves,Maharashtra,Historical,9.251993494,Nov-Feb,2022
+75,Shirdi,Maharashtra,Religious,8.005667601,Sep-Mar,2022
+76,Ajanta Caves,Maharashtra,Historical,9.199888432,Oct-Mar,2022
+77,Ellora Caves,Maharashtra,Historical,7.794973192,Oct-Mar,2022
+78,Mahabaleshwar,Maharashtra,Nature,8.921517111,Oct-Jun,2022
+79,Lonavala,Maharashtra,Nature,7.718476779,Oct-May,2022
+80,Mysore Palace,Karnataka,Historical,8.774084647,Oct-Mar,2022
+81,Coorg,Karnataka,Nature,7.99426091,Oct-Mar,2022
+82,Hampi,Karnataka,Historical,9.542375251,Oct-Mar,2022
+83,Jog Falls,Karnataka,Nature,8.283259458,Aug-Dec,2022
+84,Bangalore Palace,Karnataka,Historical,9.889108225,Oct-Mar,2022
+85,Meenakshi Temple,Tamil Nadu,Religious,9.333908167,Oct-Mar,2022
+86,Marina Beach,Tamil Nadu,Nature,8.312054162,Nov-Feb,2022
+87,Ooty,Tamil Nadu,Nature,7.801585881,Oct-Jun,2022
+88,Kodaikanal,Tamil Nadu,Nature,7.823731191,Oct-Jun,2022
+89,Mahabalipuram,Tamil Nadu,Historical,9.898260538,Nov-Feb,2022
+90,Alleppey Backwaters,Kerala,Nature,8.532904115,Sep-Mar,2022
+91,Munnar,Kerala,Nature,9.003702119,Sep-Mar,2022
+92,Periyar National Park,Kerala,Wildlife,8.709419788,Sep-Mar,2022
+93,Kovalam Beach,Kerala,Nature,7.524224212,Sep-Mar,2022
+94,Fort Kochi,Kerala,Historical,8.918211324,Sep-Mar,2022
+95,Baga Beach,Goa,Nature,7.742186414,Nov-Feb,2022
+96,Calangute Beach,Goa,Nature,8.437052866,Nov-Feb,2022
+97,Dudhsagar Falls,Goa,Nature,9.017833133,Oct-May,2022
+98,Basilica of Bom Jesus,Goa,Religious,9.057684504,Nov-Feb,2022
+99,Statue of Unity,Gujarat,Historical,8.327233674,Oct-Mar,2022
+100,Somnath Temple,Gujarat,Religious,8.502458793,Oct-Mar,2022
+101,Dwarkadhish Temple,Gujarat,Religious,9.323269692,Oct-Mar,2022
+102,Rann of Kutch,Gujarat,Nature,8.169280171,Nov-Feb,2022
+103,Gir National Park,Gujarat,Wildlife,8.952316679,Dec-Mar,2022
+1,Taj Mahal,Uttar Pradesh,Historical,8.70626871,Nov-Feb,2021
+2,Agra Fort,Uttar Pradesh,Historical,9.443379342,Nov-Feb,2021
+3,Fatehpur Sikri,Uttar Pradesh,Historical,7.583623403,Nov-Feb,2021
+4,Varanasi Ghats,Uttar Pradesh,Religious,7.48924646,Oct-Mar,2021
+5,Sarnath,Uttar Pradesh,Religious,8.302292549,Oct-Mar,2021
+6,Ayodhya Ram Mandir,Uttar Pradesh,Religious,7.675370147,Oct-Mar,2021
+7,Mathura,Uttar Pradesh,Religious,7.195370389,Oct-Mar,2021
+8,Vrindavan,Uttar Pradesh,Religious,9.180677593,Oct-Mar,2021
+9,Bara Imambara,Uttar Pradesh,Historical,8.836088214,Oct-Mar,2021
+10,Rumi Darwaza,Uttar Pradesh,Historical,7.20878522,Oct-Mar,2021
+11,India Gate,Delhi,Historical,8.372691481,Oct-Mar,2021
+12,Red Fort,Delhi,Historical,7.225876811,Oct-Mar,2021
+13,Qutub Minar,Delhi,Historical,8.531601575,Oct-Mar,2021
+14,Humayun's Tomb,Delhi,Historical,8.334985807,Oct-Mar,2021
+15,Lotus Temple,Delhi,Religious,7.541642341,Oct-Mar,2021
+16,Akshardham,Delhi,Religious,8.942098321,Oct-Mar,2021
+17,Golden Temple,Punjab,Religious,9.668719744,Oct-Mar,2021
+18,Wagah Border,Punjab,Cultural,7.438279606,Oct-Mar,2021
+19,Jallianwala Bagh,Punjab,Historical,8.856525162,Oct-Mar,2021
+20,Rock Garden,Chandigarh,Nature,7.089181664,Sep-Mar,2021
+21,Amer Fort,Rajasthan,Historical,9.948287919,Oct-Mar,2021
+22,Hawa Mahal,Rajasthan,Historical,9.578479572,Oct-Mar,2021
+23,City Palace Jaipur,Rajasthan,Historical,9.030427549,Oct-Mar,2021
+24,Jantar Mantar Jaipur,Rajasthan,Historical,8.069010542,Oct-Mar,2021
+25,Jal Mahal,Rajasthan,Historical,8.363602609,Oct-Mar,2021
+26,Mehrangarh Fort,Rajasthan,Historical,9.833074032,Oct-Mar,2021
+27,Umaid Bhawan Palace,Rajasthan,Historical,9.53196435,Oct-Mar,2021
+28,Lake Pichola,Rajasthan,Nature,7.054247093,Oct-Mar,2021
+29,City Palace Udaipur,Rajasthan,Historical,9.588604853,Oct-Mar,2021
+30,Jaisalmer Fort,Rajasthan,Historical,8.644340104,Oct-Mar,2021
+31,Sam Sand Dunes,Rajasthan,Nature,9.954831365,Oct-Mar,2021
+32,Pushkar Lake,Rajasthan,Religious,8.662276181,Oct-Mar,2021
+33,Ajmer Sharif Dargah,Rajasthan,Religious,8.352957335,Oct-Mar,2021
+34,Dal Lake,Jammu & Kashmir,Nature,8.212629237,Apr-Oct,2021
+35,Gulmarg,Jammu & Kashmir,Nature,9.436118247,Apr-Oct,2021
+36,Pahalgam,Jammu & Kashmir,Nature,8.570570886,Apr-Oct,2021
+37,Sonamarg,Jammu & Kashmir,Nature,9.702901083,Apr-Oct,2021
+38,Pangong Lake,Ladakh,Nature,7.49170244,May-Sep,2021
+39,Nubra Valley,Ladakh,Nature,8.537411208,May-Sep,2021
+40,Leh Palace,Ladakh,Historical,8.468711608,May-Sep,2021
+41,Shimla,Himachal Pradesh,Nature,7.444247544,Mar-Jun,2021
+42,Kufri,Himachal Pradesh,Nature,8.575391696,Mar-Jun,2021
+43,Manali,Himachal Pradesh,Nature,9.009554448,Mar-Jun,2021
+44,Solang Valley,Himachal Pradesh,Nature,9.960064734,Mar-Jun,2021
+45,Dharamshala,Himachal Pradesh,Nature,8.430073598,Mar-Jun,2021
+46,Dalhousie,Himachal Pradesh,Nature,9.217011545,Mar-Jun,2021
+47,Rishikesh,Uttarakhand,Religious,8.337524129,Sep-Nov,2021
+48,Haridwar,Uttarakhand,Religious,8.462652897,Sep-Nov,2021
+49,Kedarnath Temple,Uttarakhand,Religious,9.69064713,May-Oct,2021
+50,Badrinath Temple,Uttarakhand,Religious,7.89384445,May-Oct,2021
+51,Valley of Flowers,Uttarakhand,Nature,9.906203758,Jul-Sep,2021
+52,Nainital,Uttarakhand,Nature,9.814017826,Mar-Jun,2021
+53,Jim Corbett National Park,Uttarakhand,Wildlife,7.706822627,Nov-Jun,2021
+54,Bodh Gaya,Bihar,Religious,9.218671066,Oct-Mar,2021
+55,Nalanda Ruins,Bihar,Historical,7.040937931,Oct-Mar,2021
+56,Rajgir,Bihar,Historical,8.15890471,Oct-Mar,2021
+57,Victoria Memorial,West Bengal,Historical,8.400606465,Oct-Mar,2021
+58,Howrah Bridge,West Bengal,Historical,8.608715194,Oct-Mar,2021
+59,Darjeeling,West Bengal,Nature,8.058575309,Mar-May,2021
+60,Tiger Hill,West Bengal,Nature,8.79136726,Mar-May,2021
+61,Sundarbans National Park,West Bengal,Wildlife,8.657802675,Sep-Mar,2021
+62,Konark Sun Temple,Odisha,Historical,9.949522054,Sep-Mar,2021
+63,Jagannath Temple,Odisha,Religious,8.815298673,Sep-Mar,2021
+64,Puri Beach,Odisha,Nature,7.934417632,Sep-Mar,2021
+65,Chilika Lake,Odisha,Nature,8.40761163,Nov-Feb,2021
+66,Charminar,Telangana,Historical,9.537186295,Oct-Mar,2021
+67,Golconda Fort,Telangana,Historical,7.056875585,Oct-Mar,2021
+68,Ramoji Film City,Telangana,Entertainment,9.970618326,Oct-Mar,2021
+69,Tirupati Temple,Andhra Pradesh,Religious,7.462763358,Sep-Feb,2021
+70,Araku Valley,Andhra Pradesh,Nature,7.84699496,Sep-Feb,2021
+71,RK Beach,Andhra Pradesh,Nature,8.165049325,Oct-Mar,2021
+72,Gateway of India,Maharashtra,Historical,8.386037029,Oct-Mar,2021
+73,Marine Drive,Maharashtra,Nature,9.471230366,Oct-Mar,2021
+74,Elephanta Caves,Maharashtra,Historical,7.659949612,Nov-Feb,2021
+75,Shirdi,Maharashtra,Religious,7.650624947,Sep-Mar,2021
+76,Ajanta Caves,Maharashtra,Historical,9.657758013,Oct-Mar,2021
+77,Ellora Caves,Maharashtra,Historical,8.446773609,Oct-Mar,2021
+78,Mahabaleshwar,Maharashtra,Nature,9.780778502,Oct-Jun,2021
+79,Lonavala,Maharashtra,Nature,7.969392647,Oct-May,2021
+80,Mysore Palace,Karnataka,Historical,9.501667758,Oct-Mar,2021
+81,Coorg,Karnataka,Nature,8.430537959,Oct-Mar,2021
+82,Hampi,Karnataka,Historical,7.001950647,Oct-Mar,2021
+83,Jog Falls,Karnataka,Nature,7.931365075,Aug-Dec,2021
+84,Bangalore Palace,Karnataka,Historical,7.302506366,Oct-Mar,2021
+85,Meenakshi Temple,Tamil Nadu,Religious,8.889623107,Oct-Mar,2021
+86,Marina Beach,Tamil Nadu,Nature,8.107849655,Nov-Feb,2021
+87,Ooty,Tamil Nadu,Nature,9.136892206,Oct-Jun,2021
+88,Kodaikanal,Tamil Nadu,Nature,7.172197852,Oct-Jun,2021
+89,Mahabalipuram,Tamil Nadu,Historical,9.481017729,Nov-Feb,2021
+90,Alleppey Backwaters,Kerala,Nature,7.571665226,Sep-Mar,2021
+91,Munnar,Kerala,Nature,7.505052375,Sep-Mar,2021
+92,Periyar National Park,Kerala,Wildlife,9.925248756,Sep-Mar,2021
+93,Kovalam Beach,Kerala,Nature,9.800495058,Sep-Mar,2021
+94,Fort Kochi,Kerala,Historical,9.174708029,Sep-Mar,2021
+95,Baga Beach,Goa,Nature,9.060305589,Nov-Feb,2021
+96,Calangute Beach,Goa,Nature,9.321525136,Nov-Feb,2021
+97,Dudhsagar Falls,Goa,Nature,8.696029168,Oct-May,2021
+98,Basilica of Bom Jesus,Goa,Religious,8.073752425,Nov-Feb,2021
+99,Statue of Unity,Gujarat,Historical,9.71272904,Oct-Mar,2021
+100,Somnath Temple,Gujarat,Religious,7.206993142,Oct-Mar,2021
+101,Dwarkadhish Temple,Gujarat,Religious,8.654003021,Oct-Mar,2021
+102,Rann of Kutch,Gujarat,Nature,9.856658835,Nov-Feb,2021
+103,Gir National Park,Gujarat,Wildlife,7.805242824,Dec-Mar,2021
+1,Taj Mahal,Uttar Pradesh,Historical,7.682031308,Nov-Feb,2020
+2,Agra Fort,Uttar Pradesh,Historical,9.663937701,Nov-Feb,2020
+3,Fatehpur Sikri,Uttar Pradesh,Historical,8.859928289,Nov-Feb,2020
+4,Varanasi Ghats,Uttar Pradesh,Religious,7.708067734,Oct-Mar,2020
+5,Sarnath,Uttar Pradesh,Religious,8.144696071,Oct-Mar,2020
+6,Ayodhya Ram Mandir,Uttar Pradesh,Religious,8.83368716,Oct-Mar,2020
+7,Mathura,Uttar Pradesh,Religious,9.473987482,Oct-Mar,2020
+8,Vrindavan,Uttar Pradesh,Religious,9.716244971,Oct-Mar,2020
+9,Bara Imambara,Uttar Pradesh,Historical,9.992845579,Oct-Mar,2020
+10,Rumi Darwaza,Uttar Pradesh,Historical,7.861999778,Oct-Mar,2020
+11,India Gate,Delhi,Historical,8.332902965,Oct-Mar,2020
+12,Red Fort,Delhi,Historical,9.950381926,Oct-Mar,2020
+13,Qutub Minar,Delhi,Historical,8.92430058,Oct-Mar,2020
+14,Humayun's Tomb,Delhi,Historical,9.279061827,Oct-Mar,2020
+15,Lotus Temple,Delhi,Religious,7.174870613,Oct-Mar,2020
+16,Akshardham,Delhi,Religious,8.873874993,Oct-Mar,2020
+17,Golden Temple,Punjab,Religious,7.148243327,Oct-Mar,2020
+18,Wagah Border,Punjab,Cultural,8.138097284,Oct-Mar,2020
+19,Jallianwala Bagh,Punjab,Historical,7.768225745,Oct-Mar,2020
+20,Rock Garden,Chandigarh,Nature,8.421696291,Sep-Mar,2020
+21,Amer Fort,Rajasthan,Historical,8.413831198,Oct-Mar,2020
+22,Hawa Mahal,Rajasthan,Historical,7.582309816,Oct-Mar,2020
+23,City Palace Jaipur,Rajasthan,Historical,7.624866253,Oct-Mar,2020
+24,Jantar Mantar Jaipur,Rajasthan,Historical,7.58641624,Oct-Mar,2020
+25,Jal Mahal,Rajasthan,Historical,8.573522554,Oct-Mar,2020
+26,Mehrangarh Fort,Rajasthan,Historical,8.421414545,Oct-Mar,2020
+27,Umaid Bhawan Palace,Rajasthan,Historical,7.268881672,Oct-Mar,2020
+28,Lake Pichola,Rajasthan,Nature,9.626471379,Oct-Mar,2020
+29,City Palace Udaipur,Rajasthan,Historical,8.428887851,Oct-Mar,2020
+30,Jaisalmer Fort,Rajasthan,Historical,8.530715959,Oct-Mar,2020
+31,Sam Sand Dunes,Rajasthan,Nature,7.592827451,Oct-Mar,2020
+32,Pushkar Lake,Rajasthan,Religious,9.849771434,Oct-Mar,2020
+33,Ajmer Sharif Dargah,Rajasthan,Religious,9.855701733,Oct-Mar,2020
+34,Dal Lake,Jammu & Kashmir,Nature,9.533152263,Apr-Oct,2020
+35,Gulmarg,Jammu & Kashmir,Nature,9.317483295,Apr-Oct,2020
+36,Pahalgam,Jammu & Kashmir,Nature,9.182575613,Apr-Oct,2020
+37,Sonamarg,Jammu & Kashmir,Nature,8.672884074,Apr-Oct,2020
+38,Pangong Lake,Ladakh,Nature,9.840934386,May-Sep,2020
+39,Nubra Valley,Ladakh,Nature,8.773083083,May-Sep,2020
+40,Leh Palace,Ladakh,Historical,7.459155915,May-Sep,2020
+41,Shimla,Himachal Pradesh,Nature,9.406384113,Mar-Jun,2020
+42,Kufri,Himachal Pradesh,Nature,9.71837141,Mar-Jun,2020
+43,Manali,Himachal Pradesh,Nature,8.140901215,Mar-Jun,2020
+44,Solang Valley,Himachal Pradesh,Nature,7.562098061,Mar-Jun,2020
+45,Dharamshala,Himachal Pradesh,Nature,7.004372321,Mar-Jun,2020
+46,Dalhousie,Himachal Pradesh,Nature,9.581183024,Mar-Jun,2020
+47,Rishikesh,Uttarakhand,Religious,9.933729515,Sep-Nov,2020
+48,Haridwar,Uttarakhand,Religious,7.206179337,Sep-Nov,2020
+49,Kedarnath Temple,Uttarakhand,Religious,8.684130286,May-Oct,2020
+50,Badrinath Temple,Uttarakhand,Religious,9.270061789,May-Oct,2020
+51,Valley of Flowers,Uttarakhand,Nature,9.852177639,Jul-Sep,2020
+52,Nainital,Uttarakhand,Nature,9.29059732,Mar-Jun,2020
+53,Jim Corbett National Park,Uttarakhand,Wildlife,7.433800619,Nov-Jun,2020
+54,Bodh Gaya,Bihar,Religious,8.527459025,Oct-Mar,2020
+55,Nalanda Ruins,Bihar,Historical,7.230876676,Oct-Mar,2020
+56,Rajgir,Bihar,Historical,7.344909171,Oct-Mar,2020
+57,Victoria Memorial,West Bengal,Historical,9.253684241,Oct-Mar,2020
+58,Howrah Bridge,West Bengal,Historical,9.366527862,Oct-Mar,2020
+59,Darjeeling,West Bengal,Nature,9.084566253,Mar-May,2020
+60,Tiger Hill,West Bengal,Nature,8.66337827,Mar-May,2020
+61,Sundarbans National Park,West Bengal,Wildlife,9.002043805,Sep-Mar,2020
+62,Konark Sun Temple,Odisha,Historical,8.449869214,Sep-Mar,2020
+63,Jagannath Temple,Odisha,Religious,8.278692446,Sep-Mar,2020
+64,Puri Beach,Odisha,Nature,9.260509669,Sep-Mar,2020
+65,Chilika Lake,Odisha,Nature,8.709396533,Nov-Feb,2020
+66,Charminar,Telangana,Historical,7.993186826,Oct-Mar,2020
+67,Golconda Fort,Telangana,Historical,7.58254222,Oct-Mar,2020
+68,Ramoji Film City,Telangana,Entertainment,7.787392054,Oct-Mar,2020
+69,Tirupati Temple,Andhra Pradesh,Religious,9.443053969,Sep-Feb,2020
+70,Araku Valley,Andhra Pradesh,Nature,8.075168495,Sep-Feb,2020
+71,RK Beach,Andhra Pradesh,Nature,9.315089607,Oct-Mar,2020
+72,Gateway of India,Maharashtra,Historical,7.024050837,Oct-Mar,2020
+73,Marine Drive,Maharashtra,Nature,7.240187296,Oct-Mar,2020
+74,Elephanta Caves,Maharashtra,Historical,8.569871434,Nov-Feb,2020
+75,Shirdi,Maharashtra,Religious,7.964626331,Sep-Mar,2020
+76,Ajanta Caves,Maharashtra,Historical,8.507351667,Oct-Mar,2020
+77,Ellora Caves,Maharashtra,Historical,7.282972773,Oct-Mar,2020
+78,Mahabaleshwar,Maharashtra,Nature,8.221600916,Oct-Jun,2020
+79,Lonavala,Maharashtra,Nature,8.552898011,Oct-May,2020
+80,Mysore Palace,Karnataka,Historical,9.267079989,Oct-Mar,2020
+81,Coorg,Karnataka,Nature,7.363393789,Oct-Mar,2020
+82,Hampi,Karnataka,Historical,9.654732314,Oct-Mar,2020
+83,Jog Falls,Karnataka,Nature,9.622866745,Aug-Dec,2020
+84,Bangalore Palace,Karnataka,Historical,7.524658454,Oct-Mar,2020
+85,Meenakshi Temple,Tamil Nadu,Religious,7.77804993,Oct-Mar,2020
+86,Marina Beach,Tamil Nadu,Nature,8.352136764,Nov-Feb,2020
+87,Ooty,Tamil Nadu,Nature,9.556366752,Oct-Jun,2020
+88,Kodaikanal,Tamil Nadu,Nature,7.559550342,Oct-Jun,2020
+89,Mahabalipuram,Tamil Nadu,Historical,8.104846423,Nov-Feb,2020
+90,Alleppey Backwaters,Kerala,Nature,7.845833299,Sep-Mar,2020
+91,Munnar,Kerala,Nature,7.473822158,Sep-Mar,2020
+92,Periyar National Park,Kerala,Wildlife,9.767731503,Sep-Mar,2020
+93,Kovalam Beach,Kerala,Nature,8.843712178,Sep-Mar,2020
+94,Fort Kochi,Kerala,Historical,7.542199146,Sep-Mar,2020
+95,Baga Beach,Goa,Nature,8.232839495,Nov-Feb,2020
+96,Calangute Beach,Goa,Nature,7.224700917,Nov-Feb,2020
+97,Dudhsagar Falls,Goa,Nature,7.652515894,Oct-May,2020
+98,Basilica of Bom Jesus,Goa,Religious,7.751532868,Nov-Feb,2020
+99,Statue of Unity,Gujarat,Historical,7.025890547,Oct-Mar,2020
+100,Somnath Temple,Gujarat,Religious,9.822335521,Oct-Mar,2020
+101,Dwarkadhish Temple,Gujarat,Religious,9.877125217,Oct-Mar,2020
+102,Rann of Kutch,Gujarat,Nature,8.607974181,Nov-Feb,2020
+103,Gir National Park,Gujarat,Wildlife,8.77944684,Dec-Mar,2020

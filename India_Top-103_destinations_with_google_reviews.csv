@@ -1,0 +1,104 @@
+DestinationID,DestinationName,DestinationLocation,State,GoogleReviews
+1,Taj Mahal,"Agra, Uttar Pradesh",Uttar Pradesh,4.6
+2,Agra Fort,"Agra, Uttar Pradesh",Uttar Pradesh,4.5
+3,Fatehpur Sikri,"Agra, Uttar Pradesh",Uttar Pradesh,4.4
+4,Varanasi Ghats,"Varanasi, Uttar Pradesh",Uttar Pradesh,4.7
+5,Sarnath,"Varanasi, Uttar Pradesh",Uttar Pradesh,4.6
+6,Ayodhya Ram Mandir,"Ayodhya, Uttar Pradesh",Uttar Pradesh,4.8
+7,Mathura,"Mathura, Uttar Pradesh",Uttar Pradesh,4.5
+8,Vrindavan,"Vrindavan, Uttar Pradesh",Uttar Pradesh,4.6
+9,Bara Imambara,"Lucknow, Uttar Pradesh",Uttar Pradesh,4.5
+10,Rumi Darwaza,"Lucknow, Uttar Pradesh",Uttar Pradesh,4.4
+11,India Gate,"New Delhi, Delhi",Delhi,4.6
+12,Red Fort,"New Delhi, Delhi",Delhi,4.5
+13,Qutub Minar,"New Delhi, Delhi",Delhi,4.6
+14,Humayun's Tomb,"New Delhi, Delhi",Delhi,4.5
+15,Lotus Temple,"New Delhi, Delhi",Delhi,4.5
+16,Akshardham,"New Delhi, Delhi",Delhi,4.7
+17,Golden Temple,"Amritsar, Punjab",Punjab,4.9
+18,Wagah Border,"Amritsar, Punjab",Punjab,4.7
+19,Jallianwala Bagh,"Amritsar, Punjab",Punjab,4.6
+20,Rock Garden,"Chandigarh, Chandigarh",Chandigarh,4.4
+21,Amer Fort,"Jaipur, Rajasthan",Rajasthan,4.7
+22,Hawa Mahal,"Jaipur, Rajasthan",Rajasthan,4.4
+23,City Palace Jaipur,"Jaipur, Rajasthan",Rajasthan,4.5
+24,Jantar Mantar Jaipur,"Jaipur, Rajasthan",Rajasthan,4.4
+25,Jal Mahal,"Jaipur, Rajasthan",Rajasthan,4.4
+26,Mehrangarh Fort,"Jodhpur, Rajasthan",Rajasthan,4.7
+27,Umaid Bhawan Palace,"Jodhpur, Rajasthan",Rajasthan,4.6
+28,Lake Pichola,"Udaipur, Rajasthan",Rajasthan,4.6
+29,City Palace Udaipur,"Udaipur, Rajasthan",Rajasthan,4.6
+30,Jaisalmer Fort,"Jaisalmer, Rajasthan",Rajasthan,4.6
+31,Sam Sand Dunes,"Jaisalmer, Rajasthan",Rajasthan,4.5
+32,Pushkar Lake,"Pushkar, Rajasthan",Rajasthan,4.4
+33,Ajmer Sharif Dargah,"Ajmer, Rajasthan",Rajasthan,4.5
+34,Dal Lake,"Srinagar, Jammu & Kashmir",Jammu & Kashmir,4.5
+35,Gulmarg,"Baramulla, Jammu & Kashmir",Jammu & Kashmir,4.6
+36,Pahalgam,"Anantnag, Jammu & Kashmir",Jammu & Kashmir,4.6
+37,Sonamarg,"Ganderbal, Jammu & Kashmir",Jammu & Kashmir,4.5
+38,Pangong Lake,"Leh, Ladakh",Ladakh,4.8
+39,Nubra Valley,"Leh, Ladakh",Ladakh,4.7
+40,Leh Palace,"Leh, Ladakh",Ladakh,4.4
+41,Shimla,"Shimla, Himachal Pradesh",Himachal Pradesh,4.5
+42,Kufri,"Shimla, Himachal Pradesh",Himachal Pradesh,4.2
+43,Manali,"Kullu, Himachal Pradesh",Himachal Pradesh,4.5
+44,Solang Valley,"Manali, Himachal Pradesh",Himachal Pradesh,4.4
+45,Dharamshala,"Kangra, Himachal Pradesh",Himachal Pradesh,4.6
+46,Dalhousie,"Chamba, Himachal Pradesh",Himachal Pradesh,4.5
+47,Rishikesh,"Dehradun, Uttarakhand",Uttarakhand,4.6
+48,Haridwar,"Haridwar, Uttarakhand",Uttarakhand,4.6
+49,Kedarnath Temple,"Rudraprayag, Uttarakhand",Uttarakhand,4.9
+50,Badrinath Temple,"Chamoli, Uttarakhand",Uttarakhand,4.8
+51,Valley of Flowers,"Chamoli, Uttarakhand",Uttarakhand,4.8
+52,Nainital,"Nainital, Uttarakhand",Uttarakhand,4.5
+53,Jim Corbett National Park,"Nainital, Uttarakhand",Uttarakhand,4.4
+54,Bodh Gaya,"Gaya, Bihar",Bihar,4.6
+55,Nalanda Ruins,"Nalanda, Bihar",Bihar,4.5
+56,Rajgir,"Nalanda, Bihar",Bihar,4.4
+57,Victoria Memorial,"Kolkata, West Bengal",West Bengal,4.6
+58,Howrah Bridge,"Kolkata, West Bengal",West Bengal,4.5
+59,Darjeeling,"Darjeeling, West Bengal",West Bengal,4.6
+60,Tiger Hill,"Darjeeling, West Bengal",West Bengal,4.5
+61,Sundarbans National Park,"South 24 Parganas, West Bengal",West Bengal,4.4
+62,Konark Sun Temple,"Konark, Odisha",Odisha,4.7
+63,Jagannath Temple,"Puri, Odisha",Odisha,4.8
+64,Puri Beach,"Puri, Odisha",Odisha,4.4
+65,Chilika Lake,Odisha,Odisha,4.5
+66,Charminar,"Hyderabad, Telangana",Telangana,4.5
+67,Golconda Fort,"Hyderabad, Telangana",Telangana,4.5
+68,Ramoji Film City,"Hyderabad, Telangana",Telangana,4.4
+69,Tirupati Temple,"Tirupati, Andhra Pradesh",Andhra Pradesh,4.8
+70,Araku Valley,"Visakhapatnam, Andhra Pradesh",Andhra Pradesh,4.5
+71,RK Beach,"Visakhapatnam, Andhra Pradesh",Andhra Pradesh,4.4
+72,Gateway of India,"Mumbai, Maharashtra",Maharashtra,4.6
+73,Marine Drive,"Mumbai, Maharashtra",Maharashtra,4.7
+74,Elephanta Caves,"Mumbai, Maharashtra",Maharashtra,4.4
+75,Shirdi,"Shirdi, Maharashtra",Maharashtra,4.7
+76,Ajanta Caves,"Aurangabad, Maharashtra",Maharashtra,4.7
+77,Ellora Caves,"Aurangabad, Maharashtra",Maharashtra,4.8
+78,Mahabaleshwar,"Satara, Maharashtra",Maharashtra,4.5
+79,Lonavala,"Pune, Maharashtra",Maharashtra,4.4
+80,Mysore Palace,"Mysuru, Karnataka",Karnataka,4.7
+81,Coorg,"Kodagu, Karnataka",Karnataka,4.6
+82,Hampi,"Vijayanagara, Karnataka",Karnataka,4.8
+83,Jog Falls,"Shivamogga, Karnataka",Karnataka,4.6
+84,Bangalore Palace,"Bengaluru, Karnataka",Karnataka,4.4
+85,Meenakshi Temple,"Madurai, Tamil Nadu",Tamil Nadu,4.8
+86,Marina Beach,"Chennai, Tamil Nadu",Tamil Nadu,4.4
+87,Ooty,"Nilgiris, Tamil Nadu",Tamil Nadu,4.5
+88,Kodaikanal,"Dindigul, Tamil Nadu",Tamil Nadu,4.5
+89,Mahabalipuram,"Chengalpattu, Tamil Nadu",Tamil Nadu,4.6
+90,Alleppey Backwaters,"Alappuzha, Kerala",Kerala,4.6
+91,Munnar,"Idukki, Kerala",Kerala,4.6
+92,Periyar National Park,"Thekkady, Kerala",Kerala,4.4
+93,Kovalam Beach,"Thiruvananthapuram, Kerala",Kerala,4.5
+94,Fort Kochi,"Kochi, Kerala",Kerala,4.5
+95,Baga Beach,"North Goa, Goa",Goa,4.3
+96,Calangute Beach,"North Goa, Goa",Goa,4.3
+97,Dudhsagar Falls,Goa,Goa,4.6
+98,Basilica of Bom Jesus,"Old Goa, Goa",Goa,4.6
+99,Statue of Unity,"Kevadia, Gujarat",Gujarat,4.6
+100,Somnath Temple,"Somnath, Gujarat",Gujarat,4.8
+101,Dwarkadhish Temple,"Dwarka, Gujarat",Gujarat,4.8
+102,Rann of Kutch,"Kutch, Gujarat",Gujarat,4.7
+103,Gir National Park,"Junagadh, Gujarat",Gujarat,4.5

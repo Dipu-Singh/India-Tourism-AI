@@ -1,0 +1,1000 @@
+ReviewID,DestinationID,UserID,Rating,ReviewText
+1,78,611,5,Absolutely loved Mahabaleshwar! Highly recommended.
+2,98,217,5,Absolutely loved Basilica of Bom Jesus! Highly recommended.
+3,82,976,4,Hampi is a great place to visit.
+4,63,529,5,Absolutely loved Jagannath Temple! Highly recommended.
+5,99,369,4,Statue of Unity is a great place to visit.
+6,42,778,4,Kufri is a great place to visit.
+7,13,88,5,Absolutely loved Qutub Minar! Highly recommended.
+8,15,554,4,Lotus Temple is a great place to visit.
+9,92,481,5,Absolutely loved Periyar National Park! Highly recommended.
+10,59,492,3,"Darjeeling was okay, but could be better."
+11,68,774,5,Absolutely loved Ramoji Film City! Highly recommended.
+12,80,582,4,Mysore Palace is a great place to visit.
+13,48,834,5,Absolutely loved Haridwar! Highly recommended.
+14,44,459,2,Not very impressed with Solang Valley.
+15,84,463,5,Absolutely loved Bangalore Palace! Highly recommended.
+16,2,281,4,Agra Fort is a great place to visit.
+17,92,888,3,"Periyar National Park was okay, but could be better."
+18,37,783,4,Sonamarg is a great place to visit.
+19,73,475,1,Terrible experience at Marine Drive. Avoid.
+20,103,587,5,Absolutely loved Gir National Park! Highly recommended.
+21,73,394,4,Marine Drive is a great place to visit.
+22,103,122,2,Not very impressed with Gir National Park.
+23,5,306,1,Terrible experience at Sarnath. Avoid.
+24,72,774,1,Terrible experience at Gateway of India. Avoid.
+25,73,92,4,Marine Drive is a great place to visit.
+26,49,566,2,Not very impressed with Kedarnath Temple.
+27,12,802,3,"Red Fort was okay, but could be better."
+28,25,600,5,Absolutely loved Jal Mahal! Highly recommended.
+29,24,449,4,Jantar Mantar Jaipur is a great place to visit.
+30,53,346,5,Absolutely loved Jim Corbett National Park! Highly recommended.
+31,41,762,5,Absolutely loved Shimla! Highly recommended.
+32,100,37,5,Absolutely loved Somnath Temple! Highly recommended.
+33,28,761,1,Terrible experience at Lake Pichola. Avoid.
+34,26,766,5,Absolutely loved Mehrangarh Fort! Highly recommended.
+35,17,32,4,Golden Temple is a great place to visit.
+36,7,499,4,Mathura is a great place to visit.
+37,77,31,5,Absolutely loved Ellora Caves! Highly recommended.
+38,77,8,5,Absolutely loved Ellora Caves! Highly recommended.
+39,94,103,1,Terrible experience at Fort Kochi. Avoid.
+40,34,629,4,Dal Lake is a great place to visit.
+41,68,109,4,Ramoji Film City is a great place to visit.
+42,101,617,5,Absolutely loved Dwarkadhish Temple! Highly recommended.
+43,52,638,4,Nainital is a great place to visit.
+44,95,368,5,Absolutely loved Baga Beach! Highly recommended.
+45,18,510,4,Wagah Border is a great place to visit.
+46,51,71,5,Absolutely loved Valley of Flowers! Highly recommended.
+47,18,45,3,"Wagah Border was okay, but could be better."
+48,17,521,5,Absolutely loved Golden Temple! Highly recommended.
+49,25,153,5,Absolutely loved Jal Mahal! Highly recommended.
+50,38,293,4,Pangong Lake is a great place to visit.
+51,53,463,5,Absolutely loved Jim Corbett National Park! Highly recommended.
+52,83,41,1,Terrible experience at Jog Falls. Avoid.
+53,7,46,5,Absolutely loved Mathura! Highly recommended.
+54,14,874,3,"Humayun's Tomb was okay, but could be better."
+55,15,84,5,Absolutely loved Lotus Temple! Highly recommended.
+56,7,971,5,Absolutely loved Mathura! Highly recommended.
+57,61,608,1,Terrible experience at Sundarbans National Park. Avoid.
+58,84,577,5,Absolutely loved Bangalore Palace! Highly recommended.
+59,26,693,3,"Mehrangarh Fort was okay, but could be better."
+60,7,389,3,"Mathura was okay, but could be better."
+61,14,852,4,Humayun's Tomb is a great place to visit.
+62,6,822,5,Absolutely loved Ayodhya Ram Mandir! Highly recommended.
+63,103,766,5,Absolutely loved Gir National Park! Highly recommended.
+64,73,675,5,Absolutely loved Marine Drive! Highly recommended.
+65,57,151,4,Victoria Memorial is a great place to visit.
+66,58,103,5,Absolutely loved Howrah Bridge! Highly recommended.
+67,43,212,5,Absolutely loved Manali! Highly recommended.
+68,53,177,4,Jim Corbett National Park is a great place to visit.
+69,69,693,4,Tirupati Temple is a great place to visit.
+70,61,602,2,Not very impressed with Sundarbans National Park.
+71,98,73,5,Absolutely loved Basilica of Bom Jesus! Highly recommended.
+72,101,608,5,Absolutely loved Dwarkadhish Temple! Highly recommended.
+73,95,18,5,Absolutely loved Baga Beach! Highly recommended.
+74,56,907,5,Absolutely loved Rajgir! Highly recommended.
+75,20,128,1,Terrible experience at Rock Garden. Avoid.
+76,18,580,5,Absolutely loved Wagah Border! Highly recommended.
+77,22,172,1,Terrible experience at Hawa Mahal. Avoid.
+78,88,343,5,Absolutely loved Kodaikanal! Highly recommended.
+79,70,339,5,Absolutely loved Araku Valley! Highly recommended.
+80,53,288,5,Absolutely loved Jim Corbett National Park! Highly recommended.
+81,54,216,5,Absolutely loved Bodh Gaya! Highly recommended.
+82,54,352,4,Bodh Gaya is a great place to visit.
+83,12,512,2,Not very impressed with Red Fort.
+84,32,678,5,Absolutely loved Pushkar Lake! Highly recommended.
+85,65,709,1,Terrible experience at Chilika Lake. Avoid.
+86,78,351,2,Not very impressed with Mahabaleshwar.
+87,98,399,3,"Basilica of Bom Jesus was okay, but could be better."
+88,76,411,3,"Ajanta Caves was okay, but could be better."
+89,84,800,3,"Bangalore Palace was okay, but could be better."
+90,75,644,5,Absolutely loved Shirdi! Highly recommended.
+91,25,668,5,Absolutely loved Jal Mahal! Highly recommended.
+92,62,533,4,Konark Sun Temple is a great place to visit.
+93,36,314,4,Pahalgam is a great place to visit.
+94,2,317,1,Terrible experience at Agra Fort. Avoid.
+95,47,862,4,Rishikesh is a great place to visit.
+96,90,66,5,Absolutely loved Alleppey Backwaters! Highly recommended.
+97,3,970,5,Absolutely loved Fatehpur Sikri! Highly recommended.
+98,14,515,4,Humayun's Tomb is a great place to visit.
+99,23,467,5,Absolutely loved City Palace Jaipur! Highly recommended.
+100,55,652,3,"Nalanda Ruins was okay, but could be better."
+101,76,506,1,Terrible experience at Ajanta Caves. Avoid.
+102,100,140,2,Not very impressed with Somnath Temple.
+103,8,710,5,Absolutely loved Vrindavan! Highly recommended.
+104,89,977,5,Absolutely loved Mahabalipuram! Highly recommended.
+105,69,977,4,Tirupati Temple is a great place to visit.
+106,9,794,5,Absolutely loved Bara Imambara! Highly recommended.
+107,7,558,5,Absolutely loved Mathura! Highly recommended.
+108,46,948,2,Not very impressed with Dalhousie.
+109,60,13,3,"Tiger Hill was okay, but could be better."
+110,37,763,1,Terrible experience at Sonamarg. Avoid.
+111,102,635,4,Rann of Kutch is a great place to visit.
+112,91,506,2,Not very impressed with Munnar.
+113,93,72,5,Absolutely loved Kovalam Beach! Highly recommended.
+114,98,913,4,Basilica of Bom Jesus is a great place to visit.
+115,81,507,2,Not very impressed with Coorg.
+116,75,507,4,Shirdi is a great place to visit.
+117,17,89,4,Golden Temple is a great place to visit.
+118,66,666,3,"Charminar was okay, but could be better."
+119,35,797,5,Absolutely loved Gulmarg! Highly recommended.
+120,1,335,5,Absolutely loved Taj Mahal! Highly recommended.
+121,4,978,4,Varanasi Ghats is a great place to visit.
+122,97,609,4,Dudhsagar Falls is a great place to visit.
+123,13,154,5,Absolutely loved Qutub Minar! Highly recommended.
+124,15,752,4,Lotus Temple is a great place to visit.
+125,65,592,5,Absolutely loved Chilika Lake! Highly recommended.
+126,39,904,5,Absolutely loved Nubra Valley! Highly recommended.
+127,47,926,3,"Rishikesh was okay, but could be better."
+128,24,69,5,Absolutely loved Jantar Mantar Jaipur! Highly recommended.
+129,19,660,5,Absolutely loved Jallianwala Bagh! Highly recommended.
+130,34,344,2,Not very impressed with Dal Lake.
+131,4,751,1,Terrible experience at Varanasi Ghats. Avoid.
+132,41,842,3,"Shimla was okay, but could be better."
+133,47,163,2,Not very impressed with Rishikesh.
+134,74,852,4,Elephanta Caves is a great place to visit.
+135,82,940,4,Hampi is a great place to visit.
+136,83,203,5,Absolutely loved Jog Falls! Highly recommended.
+137,82,319,5,Absolutely loved Hampi! Highly recommended.
+138,68,209,5,Absolutely loved Ramoji Film City! Highly recommended.
+139,72,673,3,"Gateway of India was okay, but could be better."
+140,18,379,4,Wagah Border is a great place to visit.
+141,18,122,1,Terrible experience at Wagah Border. Avoid.
+142,101,27,5,Absolutely loved Dwarkadhish Temple! Highly recommended.
+143,10,518,2,Not very impressed with Rumi Darwaza.
+144,77,149,4,Ellora Caves is a great place to visit.
+145,74,904,5,Absolutely loved Elephanta Caves! Highly recommended.
+146,77,334,5,Absolutely loved Ellora Caves! Highly recommended.
+147,23,758,4,City Palace Jaipur is a great place to visit.
+148,44,756,4,Solang Valley is a great place to visit.
+149,77,959,5,Absolutely loved Ellora Caves! Highly recommended.
+150,9,647,4,Bara Imambara is a great place to visit.
+151,42,281,4,Kufri is a great place to visit.
+152,85,304,1,Terrible experience at Meenakshi Temple. Avoid.
+153,86,616,2,Not very impressed with Marina Beach.
+154,47,76,1,Terrible experience at Rishikesh. Avoid.
+155,27,577,5,Absolutely loved Umaid Bhawan Palace! Highly recommended.
+156,66,738,5,Absolutely loved Charminar! Highly recommended.
+157,35,525,5,Absolutely loved Gulmarg! Highly recommended.
+158,10,830,5,Absolutely loved Rumi Darwaza! Highly recommended.
+159,99,528,4,Statue of Unity is a great place to visit.
+160,42,347,2,Not very impressed with Kufri.
+161,62,110,3,"Konark Sun Temple was okay, but could be better."
+162,71,497,5,Absolutely loved RK Beach! Highly recommended.
+163,22,177,4,Hawa Mahal is a great place to visit.
+164,31,92,5,Absolutely loved Sam Sand Dunes! Highly recommended.
+165,22,265,2,Not very impressed with Hawa Mahal.
+166,18,550,5,Absolutely loved Wagah Border! Highly recommended.
+167,17,701,4,Golden Temple is a great place to visit.
+168,11,226,1,Terrible experience at India Gate. Avoid.
+169,92,437,4,Periyar National Park is a great place to visit.
+170,103,911,5,Absolutely loved Gir National Park! Highly recommended.
+171,84,109,5,Absolutely loved Bangalore Palace! Highly recommended.
+172,90,358,4,Alleppey Backwaters is a great place to visit.
+173,102,154,5,Absolutely loved Rann of Kutch! Highly recommended.
+174,88,769,4,Kodaikanal is a great place to visit.
+175,6,984,1,Terrible experience at Ayodhya Ram Mandir. Avoid.
+176,1,550,5,Absolutely loved Taj Mahal! Highly recommended.
+177,6,920,5,Absolutely loved Ayodhya Ram Mandir! Highly recommended.
+178,75,514,2,Not very impressed with Shirdi.
+179,21,783,4,Amer Fort is a great place to visit.
+180,89,99,5,Absolutely loved Mahabalipuram! Highly recommended.
+181,74,152,2,Not very impressed with Elephanta Caves.
+182,28,384,4,Lake Pichola is a great place to visit.
+183,2,739,3,"Agra Fort was okay, but could be better."
+184,82,334,5,Absolutely loved Hampi! Highly recommended.
+185,5,476,4,Sarnath is a great place to visit.
+186,63,359,5,Absolutely loved Jagannath Temple! Highly recommended.
+187,75,462,1,Terrible experience at Shirdi. Avoid.
+188,93,193,4,Kovalam Beach is a great place to visit.
+189,24,315,5,Absolutely loved Jantar Mantar Jaipur! Highly recommended.
+190,83,874,4,Jog Falls is a great place to visit.
+191,66,684,5,Absolutely loved Charminar! Highly recommended.
+192,33,303,3,"Ajmer Sharif Dargah was okay, but could be better."
+193,10,106,5,Absolutely loved Rumi Darwaza! Highly recommended.
+194,28,219,3,"Lake Pichola was okay, but could be better."
+195,21,421,1,Terrible experience at Amer Fort. Avoid.
+196,101,23,5,Absolutely loved Dwarkadhish Temple! Highly recommended.
+197,89,925,3,"Mahabalipuram was okay, but could be better."
+198,25,802,5,Absolutely loved Jal Mahal! Highly recommended.
+199,6,7,2,Not very impressed with Ayodhya Ram Mandir.
+200,30,229,5,Absolutely loved Jaisalmer Fort! Highly recommended.
+201,25,562,5,Absolutely loved Jal Mahal! Highly recommended.
+202,13,79,4,Qutub Minar is a great place to visit.
+203,35,110,5,Absolutely loved Gulmarg! Highly recommended.
+204,3,621,4,Fatehpur Sikri is a great place to visit.
+205,61,249,5,Absolutely loved Sundarbans National Park! Highly recommended.
+206,61,566,4,Sundarbans National Park is a great place to visit.
+207,3,816,5,Absolutely loved Fatehpur Sikri! Highly recommended.
+208,103,981,1,Terrible experience at Gir National Park. Avoid.
+209,63,416,3,"Jagannath Temple was okay, but could be better."
+210,40,299,5,Absolutely loved Leh Palace! Highly recommended.
+211,55,331,4,Nalanda Ruins is a great place to visit.
+212,74,127,5,Absolutely loved Elephanta Caves! Highly recommended.
+213,99,775,4,Statue of Unity is a great place to visit.
+214,90,33,2,Not very impressed with Alleppey Backwaters.
+215,64,639,4,Puri Beach is a great place to visit.
+216,57,270,1,Terrible experience at Victoria Memorial. Avoid.
+217,48,6,5,Absolutely loved Haridwar! Highly recommended.
+218,37,701,4,Sonamarg is a great place to visit.
+219,15,765,3,"Lotus Temple was okay, but could be better."
+220,12,112,3,"Red Fort was okay, but could be better."
+221,56,78,4,Rajgir is a great place to visit.
+222,75,961,5,Absolutely loved Shirdi! Highly recommended.
+223,46,851,4,Dalhousie is a great place to visit.
+224,83,275,5,Absolutely loved Jog Falls! Highly recommended.
+225,25,35,4,Jal Mahal is a great place to visit.
+226,31,114,4,Sam Sand Dunes is a great place to visit.
+227,16,375,1,Terrible experience at Akshardham. Avoid.
+228,45,630,1,Terrible experience at Dharamshala. Avoid.
+229,67,627,4,Golconda Fort is a great place to visit.
+230,62,362,4,Konark Sun Temple is a great place to visit.
+231,56,257,2,Not very impressed with Rajgir.
+232,101,631,4,Dwarkadhish Temple is a great place to visit.
+233,9,769,5,Absolutely loved Bara Imambara! Highly recommended.
+234,30,133,5,Absolutely loved Jaisalmer Fort! Highly recommended.
+235,80,495,5,Absolutely loved Mysore Palace! Highly recommended.
+236,19,62,2,Not very impressed with Jallianwala Bagh.
+237,72,198,1,Terrible experience at Gateway of India. Avoid.
+238,86,162,5,Absolutely loved Marina Beach! Highly recommended.
+239,49,206,4,Kedarnath Temple is a great place to visit.
+240,78,460,3,"Mahabaleshwar was okay, but could be better."
+241,76,105,1,Terrible experience at Ajanta Caves. Avoid.
+242,8,122,4,Vrindavan is a great place to visit.
+243,14,660,3,"Humayun's Tomb was okay, but could be better."
+244,37,78,2,Not very impressed with Sonamarg.
+245,35,710,5,Absolutely loved Gulmarg! Highly recommended.
+246,97,860,3,"Dudhsagar Falls was okay, but could be better."
+247,34,954,2,Not very impressed with Dal Lake.
+248,32,421,3,"Pushkar Lake was okay, but could be better."
+249,72,973,4,Gateway of India is a great place to visit.
+250,80,727,5,Absolutely loved Mysore Palace! Highly recommended.
+251,56,472,3,"Rajgir was okay, but could be better."
+252,57,322,5,Absolutely loved Victoria Memorial! Highly recommended.
+253,26,637,4,Mehrangarh Fort is a great place to visit.
+254,92,32,5,Absolutely loved Periyar National Park! Highly recommended.
+255,53,174,4,Jim Corbett National Park is a great place to visit.
+256,51,979,4,Valley of Flowers is a great place to visit.
+257,3,834,1,Terrible experience at Fatehpur Sikri. Avoid.
+258,93,419,1,Terrible experience at Kovalam Beach. Avoid.
+259,71,50,5,Absolutely loved RK Beach! Highly recommended.
+260,6,633,5,Absolutely loved Ayodhya Ram Mandir! Highly recommended.
+261,28,327,3,"Lake Pichola was okay, but could be better."
+262,22,841,1,Terrible experience at Hawa Mahal. Avoid.
+263,62,797,2,Not very impressed with Konark Sun Temple.
+264,18,348,4,Wagah Border is a great place to visit.
+265,20,238,5,Absolutely loved Rock Garden! Highly recommended.
+266,9,826,4,Bara Imambara is a great place to visit.
+267,80,875,5,Absolutely loved Mysore Palace! Highly recommended.
+268,34,887,4,Dal Lake is a great place to visit.
+269,19,864,2,Not very impressed with Jallianwala Bagh.
+270,9,966,4,Bara Imambara is a great place to visit.
+271,77,625,5,Absolutely loved Ellora Caves! Highly recommended.
+272,57,820,4,Victoria Memorial is a great place to visit.
+273,83,696,5,Absolutely loved Jog Falls! Highly recommended.
+274,53,898,2,Not very impressed with Jim Corbett National Park.
+275,56,73,2,Not very impressed with Rajgir.
+276,49,801,5,Absolutely loved Kedarnath Temple! Highly recommended.
+277,49,330,5,Absolutely loved Kedarnath Temple! Highly recommended.
+278,2,557,3,"Agra Fort was okay, but could be better."
+279,26,354,5,Absolutely loved Mehrangarh Fort! Highly recommended.
+280,72,437,5,Absolutely loved Gateway of India! Highly recommended.
+281,35,352,5,Absolutely loved Gulmarg! Highly recommended.
+282,88,152,5,Absolutely loved Kodaikanal! Highly recommended.
+283,68,434,4,Ramoji Film City is a great place to visit.
+284,56,270,4,Rajgir is a great place to visit.
+285,69,564,3,"Tirupati Temple was okay, but could be better."
+286,57,148,5,Absolutely loved Victoria Memorial! Highly recommended.
+287,31,979,3,"Sam Sand Dunes was okay, but could be better."
+288,97,199,4,Dudhsagar Falls is a great place to visit.
+289,88,192,2,Not very impressed with Kodaikanal.
+290,30,517,4,Jaisalmer Fort is a great place to visit.
+291,92,729,1,Terrible experience at Periyar National Park. Avoid.
+292,85,73,5,Absolutely loved Meenakshi Temple! Highly recommended.
+293,27,811,4,Umaid Bhawan Palace is a great place to visit.
+294,5,642,1,Terrible experience at Sarnath. Avoid.
+295,8,728,2,Not very impressed with Vrindavan.
+296,69,296,4,Tirupati Temple is a great place to visit.
+297,58,772,5,Absolutely loved Howrah Bridge! Highly recommended.
+298,93,575,5,Absolutely loved Kovalam Beach! Highly recommended.
+299,1,116,3,"Taj Mahal was okay, but could be better."
+300,49,40,1,Terrible experience at Kedarnath Temple. Avoid.
+301,25,853,5,Absolutely loved Jal Mahal! Highly recommended.
+302,78,789,4,Mahabaleshwar is a great place to visit.
+303,80,946,4,Mysore Palace is a great place to visit.
+304,61,34,4,Sundarbans National Park is a great place to visit.
+305,81,717,5,Absolutely loved Coorg! Highly recommended.
+306,49,176,5,Absolutely loved Kedarnath Temple! Highly recommended.
+307,54,686,5,Absolutely loved Bodh Gaya! Highly recommended.
+308,1,991,2,Not very impressed with Taj Mahal.
+309,73,488,4,Marine Drive is a great place to visit.
+310,55,781,5,Absolutely loved Nalanda Ruins! Highly recommended.
+311,3,632,5,Absolutely loved Fatehpur Sikri! Highly recommended.
+312,86,438,5,Absolutely loved Marina Beach! Highly recommended.
+313,33,462,5,Absolutely loved Ajmer Sharif Dargah! Highly recommended.
+314,54,737,4,Bodh Gaya is a great place to visit.
+315,42,460,5,Absolutely loved Kufri! Highly recommended.
+316,76,54,5,Absolutely loved Ajanta Caves! Highly recommended.
+317,21,475,5,Absolutely loved Amer Fort! Highly recommended.
+318,87,866,3,"Ooty was okay, but could be better."
+319,99,531,5,Absolutely loved Statue of Unity! Highly recommended.
+320,6,731,2,Not very impressed with Ayodhya Ram Mandir.
+321,70,992,2,Not very impressed with Araku Valley.
+322,6,715,1,Terrible experience at Ayodhya Ram Mandir. Avoid.
+323,68,373,5,Absolutely loved Ramoji Film City! Highly recommended.
+324,97,160,3,"Dudhsagar Falls was okay, but could be better."
+325,62,308,4,Konark Sun Temple is a great place to visit.
+326,12,130,5,Absolutely loved Red Fort! Highly recommended.
+327,90,962,1,Terrible experience at Alleppey Backwaters. Avoid.
+328,75,146,5,Absolutely loved Shirdi! Highly recommended.
+329,52,555,5,Absolutely loved Nainital! Highly recommended.
+330,56,42,5,Absolutely loved Rajgir! Highly recommended.
+331,30,56,5,Absolutely loved Jaisalmer Fort! Highly recommended.
+332,53,847,5,Absolutely loved Jim Corbett National Park! Highly recommended.
+333,79,429,1,Terrible experience at Lonavala. Avoid.
+334,49,835,4,Kedarnath Temple is a great place to visit.
+335,8,818,4,Vrindavan is a great place to visit.
+336,13,769,3,"Qutub Minar was okay, but could be better."
+337,4,588,1,Terrible experience at Varanasi Ghats. Avoid.
+338,81,524,5,Absolutely loved Coorg! Highly recommended.
+339,99,465,2,Not very impressed with Statue of Unity.
+340,36,653,5,Absolutely loved Pahalgam! Highly recommended.
+341,39,748,5,Absolutely loved Nubra Valley! Highly recommended.
+342,39,961,5,Absolutely loved Nubra Valley! Highly recommended.
+343,67,401,5,Absolutely loved Golconda Fort! Highly recommended.
+344,66,396,4,Charminar is a great place to visit.
+345,63,356,5,Absolutely loved Jagannath Temple! Highly recommended.
+346,96,503,4,Calangute Beach is a great place to visit.
+347,55,659,5,Absolutely loved Nalanda Ruins! Highly recommended.
+348,58,712,1,Terrible experience at Howrah Bridge. Avoid.
+349,45,575,5,Absolutely loved Dharamshala! Highly recommended.
+350,78,845,4,Mahabaleshwar is a great place to visit.
+351,101,19,3,"Dwarkadhish Temple was okay, but could be better."
+352,72,576,5,Absolutely loved Gateway of India! Highly recommended.
+353,59,24,4,Darjeeling is a great place to visit.
+354,83,260,5,Absolutely loved Jog Falls! Highly recommended.
+355,19,269,5,Absolutely loved Jallianwala Bagh! Highly recommended.
+356,57,376,5,Absolutely loved Victoria Memorial! Highly recommended.
+357,60,337,3,"Tiger Hill was okay, but could be better."
+358,71,61,1,Terrible experience at RK Beach. Avoid.
+359,37,538,1,Terrible experience at Sonamarg. Avoid.
+360,8,328,2,Not very impressed with Vrindavan.
+361,90,168,4,Alleppey Backwaters is a great place to visit.
+362,14,966,5,Absolutely loved Humayun's Tomb! Highly recommended.
+363,87,469,2,Not very impressed with Ooty.
+364,36,942,1,Terrible experience at Pahalgam. Avoid.
+365,11,684,5,Absolutely loved India Gate! Highly recommended.
+366,65,935,5,Absolutely loved Chilika Lake! Highly recommended.
+367,5,287,1,Terrible experience at Sarnath. Avoid.
+368,61,218,4,Sundarbans National Park is a great place to visit.
+369,47,950,5,Absolutely loved Rishikesh! Highly recommended.
+370,51,184,2,Not very impressed with Valley of Flowers.
+371,7,497,4,Mathura is a great place to visit.
+372,71,829,5,Absolutely loved RK Beach! Highly recommended.
+373,28,864,5,Absolutely loved Lake Pichola! Highly recommended.
+374,85,351,4,Meenakshi Temple is a great place to visit.
+375,57,14,4,Victoria Memorial is a great place to visit.
+376,45,765,3,"Dharamshala was okay, but could be better."
+377,11,457,4,India Gate is a great place to visit.
+378,100,184,5,Absolutely loved Somnath Temple! Highly recommended.
+379,70,28,5,Absolutely loved Araku Valley! Highly recommended.
+380,99,760,2,Not very impressed with Statue of Unity.
+381,44,451,1,Terrible experience at Solang Valley. Avoid.
+382,33,715,5,Absolutely loved Ajmer Sharif Dargah! Highly recommended.
+383,3,809,5,Absolutely loved Fatehpur Sikri! Highly recommended.
+384,59,381,5,Absolutely loved Darjeeling! Highly recommended.
+385,34,922,3,"Dal Lake was okay, but could be better."
+386,94,609,5,Absolutely loved Fort Kochi! Highly recommended.
+387,83,938,5,Absolutely loved Jog Falls! Highly recommended.
+388,88,817,3,"Kodaikanal was okay, but could be better."
+389,96,818,5,Absolutely loved Calangute Beach! Highly recommended.
+390,84,259,4,Bangalore Palace is a great place to visit.
+391,11,176,4,India Gate is a great place to visit.
+392,9,289,2,Not very impressed with Bara Imambara.
+393,62,847,1,Terrible experience at Konark Sun Temple. Avoid.
+394,29,254,5,Absolutely loved City Palace Udaipur! Highly recommended.
+395,1,286,3,"Taj Mahal was okay, but could be better."
+396,22,419,4,Hawa Mahal is a great place to visit.
+397,94,960,5,Absolutely loved Fort Kochi! Highly recommended.
+398,24,43,5,Absolutely loved Jantar Mantar Jaipur! Highly recommended.
+399,47,664,3,"Rishikesh was okay, but could be better."
+400,27,157,5,Absolutely loved Umaid Bhawan Palace! Highly recommended.
+401,79,238,5,Absolutely loved Lonavala! Highly recommended.
+402,39,961,5,Absolutely loved Nubra Valley! Highly recommended.
+403,80,525,2,Not very impressed with Mysore Palace.
+404,78,572,4,Mahabaleshwar is a great place to visit.
+405,40,514,5,Absolutely loved Leh Palace! Highly recommended.
+406,64,326,4,Puri Beach is a great place to visit.
+407,94,760,2,Not very impressed with Fort Kochi.
+408,77,361,4,Ellora Caves is a great place to visit.
+409,73,447,2,Not very impressed with Marine Drive.
+410,7,934,5,Absolutely loved Mathura! Highly recommended.
+411,57,295,5,Absolutely loved Victoria Memorial! Highly recommended.
+412,40,975,5,Absolutely loved Leh Palace! Highly recommended.
+413,26,115,5,Absolutely loved Mehrangarh Fort! Highly recommended.
+414,102,186,1,Terrible experience at Rann of Kutch. Avoid.
+415,13,943,4,Qutub Minar is a great place to visit.
+416,40,130,5,Absolutely loved Leh Palace! Highly recommended.
+417,51,376,3,"Valley of Flowers was okay, but could be better."
+418,74,954,2,Not very impressed with Elephanta Caves.
+419,98,290,3,"Basilica of Bom Jesus was okay, but could be better."
+420,33,801,4,Ajmer Sharif Dargah is a great place to visit.
+421,17,433,4,Golden Temple is a great place to visit.
+422,4,543,4,Varanasi Ghats is a great place to visit.
+423,82,90,2,Not very impressed with Hampi.
+424,23,994,4,City Palace Jaipur is a great place to visit.
+425,48,5,5,Absolutely loved Haridwar! Highly recommended.
+426,49,302,5,Absolutely loved Kedarnath Temple! Highly recommended.
+427,101,56,5,Absolutely loved Dwarkadhish Temple! Highly recommended.
+428,32,246,5,Absolutely loved Pushkar Lake! Highly recommended.
+429,38,514,4,Pangong Lake is a great place to visit.
+430,92,969,2,Not very impressed with Periyar National Park.
+431,16,653,5,Absolutely loved Akshardham! Highly recommended.
+432,90,265,3,"Alleppey Backwaters was okay, but could be better."
+433,12,503,2,Not very impressed with Red Fort.
+434,66,375,5,Absolutely loved Charminar! Highly recommended.
+435,40,722,5,Absolutely loved Leh Palace! Highly recommended.
+436,72,171,2,Not very impressed with Gateway of India.
+437,93,278,5,Absolutely loved Kovalam Beach! Highly recommended.
+438,39,940,5,Absolutely loved Nubra Valley! Highly recommended.
+439,25,294,5,Absolutely loved Jal Mahal! Highly recommended.
+440,41,486,4,Shimla is a great place to visit.
+441,85,404,4,Meenakshi Temple is a great place to visit.
+442,20,292,5,Absolutely loved Rock Garden! Highly recommended.
+443,42,8,1,Terrible experience at Kufri. Avoid.
+444,1,431,4,Taj Mahal is a great place to visit.
+445,81,298,5,Absolutely loved Coorg! Highly recommended.
+446,42,417,5,Absolutely loved Kufri! Highly recommended.
+447,1,879,1,Terrible experience at Taj Mahal. Avoid.
+448,22,91,1,Terrible experience at Hawa Mahal. Avoid.
+449,55,573,5,Absolutely loved Nalanda Ruins! Highly recommended.
+450,81,988,2,Not very impressed with Coorg.
+451,53,18,4,Jim Corbett National Park is a great place to visit.
+452,32,706,5,Absolutely loved Pushkar Lake! Highly recommended.
+453,20,221,5,Absolutely loved Rock Garden! Highly recommended.
+454,45,902,2,Not very impressed with Dharamshala.
+455,46,46,5,Absolutely loved Dalhousie! Highly recommended.
+456,75,685,4,Shirdi is a great place to visit.
+457,10,981,2,Not very impressed with Rumi Darwaza.
+458,76,587,3,"Ajanta Caves was okay, but could be better."
+459,102,661,5,Absolutely loved Rann of Kutch! Highly recommended.
+460,68,925,3,"Ramoji Film City was okay, but could be better."
+461,62,439,2,Not very impressed with Konark Sun Temple.
+462,22,375,5,Absolutely loved Hawa Mahal! Highly recommended.
+463,16,722,5,Absolutely loved Akshardham! Highly recommended.
+464,76,694,3,"Ajanta Caves was okay, but could be better."
+465,93,496,2,Not very impressed with Kovalam Beach.
+466,90,49,1,Terrible experience at Alleppey Backwaters. Avoid.
+467,51,720,4,Valley of Flowers is a great place to visit.
+468,28,621,5,Absolutely loved Lake Pichola! Highly recommended.
+469,45,872,5,Absolutely loved Dharamshala! Highly recommended.
+470,19,728,5,Absolutely loved Jallianwala Bagh! Highly recommended.
+471,16,321,4,Akshardham is a great place to visit.
+472,84,320,3,"Bangalore Palace was okay, but could be better."
+473,94,188,2,Not very impressed with Fort Kochi.
+474,16,382,5,Absolutely loved Akshardham! Highly recommended.
+475,81,877,4,Coorg is a great place to visit.
+476,22,788,5,Absolutely loved Hawa Mahal! Highly recommended.
+477,84,997,4,Bangalore Palace is a great place to visit.
+478,26,629,1,Terrible experience at Mehrangarh Fort. Avoid.
+479,77,498,5,Absolutely loved Ellora Caves! Highly recommended.
+480,16,5,5,Absolutely loved Akshardham! Highly recommended.
+481,32,902,5,Absolutely loved Pushkar Lake! Highly recommended.
+482,56,928,5,Absolutely loved Rajgir! Highly recommended.
+483,35,261,2,Not very impressed with Gulmarg.
+484,85,76,5,Absolutely loved Meenakshi Temple! Highly recommended.
+485,21,446,1,Terrible experience at Amer Fort. Avoid.
+486,85,926,2,Not very impressed with Meenakshi Temple.
+487,84,672,1,Terrible experience at Bangalore Palace. Avoid.
+488,63,879,4,Jagannath Temple is a great place to visit.
+489,31,68,4,Sam Sand Dunes is a great place to visit.
+490,56,498,3,"Rajgir was okay, but could be better."
+491,65,290,5,Absolutely loved Chilika Lake! Highly recommended.
+492,21,407,5,Absolutely loved Amer Fort! Highly recommended.
+493,35,831,4,Gulmarg is a great place to visit.
+494,31,7,5,Absolutely loved Sam Sand Dunes! Highly recommended.
+495,86,720,4,Marina Beach is a great place to visit.
+496,100,885,5,Absolutely loved Somnath Temple! Highly recommended.
+497,90,982,4,Alleppey Backwaters is a great place to visit.
+498,30,360,4,Jaisalmer Fort is a great place to visit.
+499,15,889,4,Lotus Temple is a great place to visit.
+500,24,351,5,Absolutely loved Jantar Mantar Jaipur! Highly recommended.
+501,55,634,5,Absolutely loved Nalanda Ruins! Highly recommended.
+502,50,751,4,Badrinath Temple is a great place to visit.
+503,50,531,4,Badrinath Temple is a great place to visit.
+504,65,537,5,Absolutely loved Chilika Lake! Highly recommended.
+505,46,82,5,Absolutely loved Dalhousie! Highly recommended.
+506,11,376,5,Absolutely loved India Gate! Highly recommended.
+507,47,369,5,Absolutely loved Rishikesh! Highly recommended.
+508,33,825,4,Ajmer Sharif Dargah is a great place to visit.
+509,28,267,4,Lake Pichola is a great place to visit.
+510,53,969,4,Jim Corbett National Park is a great place to visit.
+511,67,340,4,Golconda Fort is a great place to visit.
+512,21,527,1,Terrible experience at Amer Fort. Avoid.
+513,78,905,1,Terrible experience at Mahabaleshwar. Avoid.
+514,10,785,4,Rumi Darwaza is a great place to visit.
+515,2,504,5,Absolutely loved Agra Fort! Highly recommended.
+516,59,964,5,Absolutely loved Darjeeling! Highly recommended.
+517,80,695,2,Not very impressed with Mysore Palace.
+518,30,476,2,Not very impressed with Jaisalmer Fort.
+519,12,20,3,"Red Fort was okay, but could be better."
+520,84,632,4,Bangalore Palace is a great place to visit.
+521,52,760,4,Nainital is a great place to visit.
+522,98,416,5,Absolutely loved Basilica of Bom Jesus! Highly recommended.
+523,45,641,5,Absolutely loved Dharamshala! Highly recommended.
+524,14,248,3,"Humayun's Tomb was okay, but could be better."
+525,90,215,3,"Alleppey Backwaters was okay, but could be better."
+526,60,191,3,"Tiger Hill was okay, but could be better."
+527,45,757,5,Absolutely loved Dharamshala! Highly recommended.
+528,102,634,4,Rann of Kutch is a great place to visit.
+529,45,326,4,Dharamshala is a great place to visit.
+530,17,332,5,Absolutely loved Golden Temple! Highly recommended.
+531,25,867,2,Not very impressed with Jal Mahal.
+532,5,195,5,Absolutely loved Sarnath! Highly recommended.
+533,40,243,1,Terrible experience at Leh Palace. Avoid.
+534,18,904,1,Terrible experience at Wagah Border. Avoid.
+535,59,787,5,Absolutely loved Darjeeling! Highly recommended.
+536,48,197,2,Not very impressed with Haridwar.
+537,4,679,5,Absolutely loved Varanasi Ghats! Highly recommended.
+538,38,199,3,"Pangong Lake was okay, but could be better."
+539,70,539,1,Terrible experience at Araku Valley. Avoid.
+540,60,229,4,Tiger Hill is a great place to visit.
+541,86,261,4,Marina Beach is a great place to visit.
+542,86,624,5,Absolutely loved Marina Beach! Highly recommended.
+543,37,109,1,Terrible experience at Sonamarg. Avoid.
+544,42,923,5,Absolutely loved Kufri! Highly recommended.
+545,94,473,5,Absolutely loved Fort Kochi! Highly recommended.
+546,34,883,1,Terrible experience at Dal Lake. Avoid.
+547,98,730,1,Terrible experience at Basilica of Bom Jesus. Avoid.
+548,24,541,5,Absolutely loved Jantar Mantar Jaipur! Highly recommended.
+549,24,242,4,Jantar Mantar Jaipur is a great place to visit.
+550,94,618,4,Fort Kochi is a great place to visit.
+551,100,368,5,Absolutely loved Somnath Temple! Highly recommended.
+552,71,38,5,Absolutely loved RK Beach! Highly recommended.
+553,60,280,4,Tiger Hill is a great place to visit.
+554,1,51,5,Absolutely loved Taj Mahal! Highly recommended.
+555,77,403,5,Absolutely loved Ellora Caves! Highly recommended.
+556,59,24,5,Absolutely loved Darjeeling! Highly recommended.
+557,22,201,5,Absolutely loved Hawa Mahal! Highly recommended.
+558,90,565,4,Alleppey Backwaters is a great place to visit.
+559,90,318,1,Terrible experience at Alleppey Backwaters. Avoid.
+560,29,410,5,Absolutely loved City Palace Udaipur! Highly recommended.
+561,27,311,5,Absolutely loved Umaid Bhawan Palace! Highly recommended.
+562,60,782,4,Tiger Hill is a great place to visit.
+563,22,335,3,"Hawa Mahal was okay, but could be better."
+564,79,612,2,Not very impressed with Lonavala.
+565,87,713,5,Absolutely loved Ooty! Highly recommended.
+566,1,466,5,Absolutely loved Taj Mahal! Highly recommended.
+567,88,553,4,Kodaikanal is a great place to visit.
+568,4,867,5,Absolutely loved Varanasi Ghats! Highly recommended.
+569,84,17,5,Absolutely loved Bangalore Palace! Highly recommended.
+570,42,490,4,Kufri is a great place to visit.
+571,68,129,5,Absolutely loved Ramoji Film City! Highly recommended.
+572,42,628,5,Absolutely loved Kufri! Highly recommended.
+573,72,532,4,Gateway of India is a great place to visit.
+574,27,187,5,Absolutely loved Umaid Bhawan Palace! Highly recommended.
+575,28,418,4,Lake Pichola is a great place to visit.
+576,22,9,5,Absolutely loved Hawa Mahal! Highly recommended.
+577,4,299,4,Varanasi Ghats is a great place to visit.
+578,27,632,4,Umaid Bhawan Palace is a great place to visit.
+579,60,826,4,Tiger Hill is a great place to visit.
+580,2,931,4,Agra Fort is a great place to visit.
+581,25,647,5,Absolutely loved Jal Mahal! Highly recommended.
+582,80,793,5,Absolutely loved Mysore Palace! Highly recommended.
+583,60,289,4,Tiger Hill is a great place to visit.
+584,68,983,1,Terrible experience at Ramoji Film City. Avoid.
+585,87,331,3,"Ooty was okay, but could be better."
+586,44,22,4,Solang Valley is a great place to visit.
+587,83,956,5,Absolutely loved Jog Falls! Highly recommended.
+588,35,987,5,Absolutely loved Gulmarg! Highly recommended.
+589,53,414,3,"Jim Corbett National Park was okay, but could be better."
+590,70,78,2,Not very impressed with Araku Valley.
+591,69,642,5,Absolutely loved Tirupati Temple! Highly recommended.
+592,48,922,4,Haridwar is a great place to visit.
+593,9,215,3,"Bara Imambara was okay, but could be better."
+594,39,719,4,Nubra Valley is a great place to visit.
+595,97,47,2,Not very impressed with Dudhsagar Falls.
+596,22,171,4,Hawa Mahal is a great place to visit.
+597,66,618,4,Charminar is a great place to visit.
+598,23,900,5,Absolutely loved City Palace Jaipur! Highly recommended.
+599,67,586,1,Terrible experience at Golconda Fort. Avoid.
+600,52,6,5,Absolutely loved Nainital! Highly recommended.
+601,10,967,5,Absolutely loved Rumi Darwaza! Highly recommended.
+602,13,807,2,Not very impressed with Qutub Minar.
+603,28,905,4,Lake Pichola is a great place to visit.
+604,87,881,4,Ooty is a great place to visit.
+605,67,571,2,Not very impressed with Golconda Fort.
+606,17,265,5,Absolutely loved Golden Temple! Highly recommended.
+607,14,786,5,Absolutely loved Humayun's Tomb! Highly recommended.
+608,18,343,5,Absolutely loved Wagah Border! Highly recommended.
+609,14,578,3,"Humayun's Tomb was okay, but could be better."
+610,62,546,5,Absolutely loved Konark Sun Temple! Highly recommended.
+611,100,233,2,Not very impressed with Somnath Temple.
+612,51,319,4,Valley of Flowers is a great place to visit.
+613,74,617,5,Absolutely loved Elephanta Caves! Highly recommended.
+614,22,251,2,Not very impressed with Hawa Mahal.
+615,18,955,4,Wagah Border is a great place to visit.
+616,21,156,4,Amer Fort is a great place to visit.
+617,34,115,5,Absolutely loved Dal Lake! Highly recommended.
+618,48,691,4,Haridwar is a great place to visit.
+619,12,351,2,Not very impressed with Red Fort.
+620,12,985,3,"Red Fort was okay, but could be better."
+621,78,661,3,"Mahabaleshwar was okay, but could be better."
+622,80,218,2,Not very impressed with Mysore Palace.
+623,28,339,2,Not very impressed with Lake Pichola.
+624,47,940,5,Absolutely loved Rishikesh! Highly recommended.
+625,86,138,1,Terrible experience at Marina Beach. Avoid.
+626,37,981,4,Sonamarg is a great place to visit.
+627,89,106,5,Absolutely loved Mahabalipuram! Highly recommended.
+628,44,261,4,Solang Valley is a great place to visit.
+629,91,575,4,Munnar is a great place to visit.
+630,38,908,5,Absolutely loved Pangong Lake! Highly recommended.
+631,28,863,4,Lake Pichola is a great place to visit.
+632,100,591,2,Not very impressed with Somnath Temple.
+633,28,878,3,"Lake Pichola was okay, but could be better."
+634,44,90,4,Solang Valley is a great place to visit.
+635,4,251,4,Varanasi Ghats is a great place to visit.
+636,30,611,4,Jaisalmer Fort is a great place to visit.
+637,36,601,5,Absolutely loved Pahalgam! Highly recommended.
+638,42,352,5,Absolutely loved Kufri! Highly recommended.
+639,98,883,5,Absolutely loved Basilica of Bom Jesus! Highly recommended.
+640,79,669,4,Lonavala is a great place to visit.
+641,65,957,4,Chilika Lake is a great place to visit.
+642,63,517,5,Absolutely loved Jagannath Temple! Highly recommended.
+643,61,851,4,Sundarbans National Park is a great place to visit.
+644,58,296,2,Not very impressed with Howrah Bridge.
+645,95,112,5,Absolutely loved Baga Beach! Highly recommended.
+646,30,720,4,Jaisalmer Fort is a great place to visit.
+647,71,699,2,Not very impressed with RK Beach.
+648,7,295,3,"Mathura was okay, but could be better."
+649,33,592,4,Ajmer Sharif Dargah is a great place to visit.
+650,8,248,5,Absolutely loved Vrindavan! Highly recommended.
+651,1,513,5,Absolutely loved Taj Mahal! Highly recommended.
+652,82,616,2,Not very impressed with Hampi.
+653,70,346,5,Absolutely loved Araku Valley! Highly recommended.
+654,101,511,4,Dwarkadhish Temple is a great place to visit.
+655,53,265,4,Jim Corbett National Park is a great place to visit.
+656,9,357,3,"Bara Imambara was okay, but could be better."
+657,98,573,5,Absolutely loved Basilica of Bom Jesus! Highly recommended.
+658,79,142,4,Lonavala is a great place to visit.
+659,48,498,5,Absolutely loved Haridwar! Highly recommended.
+660,30,73,1,Terrible experience at Jaisalmer Fort. Avoid.
+661,83,975,1,Terrible experience at Jog Falls. Avoid.
+662,48,730,4,Haridwar is a great place to visit.
+663,30,772,4,Jaisalmer Fort is a great place to visit.
+664,41,4,5,Absolutely loved Shimla! Highly recommended.
+665,98,454,5,Absolutely loved Basilica of Bom Jesus! Highly recommended.
+666,97,359,3,"Dudhsagar Falls was okay, but could be better."
+667,33,7,5,Absolutely loved Ajmer Sharif Dargah! Highly recommended.
+668,52,992,4,Nainital is a great place to visit.
+669,93,625,5,Absolutely loved Kovalam Beach! Highly recommended.
+670,81,940,1,Terrible experience at Coorg. Avoid.
+671,9,32,4,Bara Imambara is a great place to visit.
+672,58,610,5,Absolutely loved Howrah Bridge! Highly recommended.
+673,35,736,3,"Gulmarg was okay, but could be better."
+674,21,331,2,Not very impressed with Amer Fort.
+675,33,194,4,Ajmer Sharif Dargah is a great place to visit.
+676,84,458,4,Bangalore Palace is a great place to visit.
+677,83,700,5,Absolutely loved Jog Falls! Highly recommended.
+678,58,339,5,Absolutely loved Howrah Bridge! Highly recommended.
+679,78,821,4,Mahabaleshwar is a great place to visit.
+680,69,701,4,Tirupati Temple is a great place to visit.
+681,11,997,4,India Gate is a great place to visit.
+682,36,41,4,Pahalgam is a great place to visit.
+683,54,718,5,Absolutely loved Bodh Gaya! Highly recommended.
+684,6,637,5,Absolutely loved Ayodhya Ram Mandir! Highly recommended.
+685,98,141,5,Absolutely loved Basilica of Bom Jesus! Highly recommended.
+686,25,254,4,Jal Mahal is a great place to visit.
+687,40,642,4,Leh Palace is a great place to visit.
+688,82,509,5,Absolutely loved Hampi! Highly recommended.
+689,95,238,4,Baga Beach is a great place to visit.
+690,1,644,5,Absolutely loved Taj Mahal! Highly recommended.
+691,90,866,5,Absolutely loved Alleppey Backwaters! Highly recommended.
+692,48,822,4,Haridwar is a great place to visit.
+693,77,965,1,Terrible experience at Ellora Caves. Avoid.
+694,39,696,5,Absolutely loved Nubra Valley! Highly recommended.
+695,17,544,1,Terrible experience at Golden Temple. Avoid.
+696,63,151,4,Jagannath Temple is a great place to visit.
+697,36,896,4,Pahalgam is a great place to visit.
+698,10,684,3,"Rumi Darwaza was okay, but could be better."
+699,88,559,3,"Kodaikanal was okay, but could be better."
+700,87,786,2,Not very impressed with Ooty.
+701,66,715,3,"Charminar was okay, but could be better."
+702,76,880,1,Terrible experience at Ajanta Caves. Avoid.
+703,69,947,2,Not very impressed with Tirupati Temple.
+704,64,609,2,Not very impressed with Puri Beach.
+705,71,315,5,Absolutely loved RK Beach! Highly recommended.
+706,28,441,5,Absolutely loved Lake Pichola! Highly recommended.
+707,80,790,5,Absolutely loved Mysore Palace! Highly recommended.
+708,5,258,5,Absolutely loved Sarnath! Highly recommended.
+709,66,165,4,Charminar is a great place to visit.
+710,11,832,2,Not very impressed with India Gate.
+711,87,652,4,Ooty is a great place to visit.
+712,85,987,5,Absolutely loved Meenakshi Temple! Highly recommended.
+713,103,599,1,Terrible experience at Gir National Park. Avoid.
+714,11,160,5,Absolutely loved India Gate! Highly recommended.
+715,53,303,3,"Jim Corbett National Park was okay, but could be better."
+716,28,634,4,Lake Pichola is a great place to visit.
+717,59,904,3,"Darjeeling was okay, but could be better."
+718,97,506,5,Absolutely loved Dudhsagar Falls! Highly recommended.
+719,7,434,5,Absolutely loved Mathura! Highly recommended.
+720,67,743,3,"Golconda Fort was okay, but could be better."
+721,20,143,4,Rock Garden is a great place to visit.
+722,63,206,4,Jagannath Temple is a great place to visit.
+723,84,539,5,Absolutely loved Bangalore Palace! Highly recommended.
+724,60,222,5,Absolutely loved Tiger Hill! Highly recommended.
+725,39,679,3,"Nubra Valley was okay, but could be better."
+726,41,31,1,Terrible experience at Shimla. Avoid.
+727,103,936,5,Absolutely loved Gir National Park! Highly recommended.
+728,67,852,5,Absolutely loved Golconda Fort! Highly recommended.
+729,99,295,5,Absolutely loved Statue of Unity! Highly recommended.
+730,37,387,5,Absolutely loved Sonamarg! Highly recommended.
+731,45,184,3,"Dharamshala was okay, but could be better."
+732,71,626,5,Absolutely loved RK Beach! Highly recommended.
+733,19,561,5,Absolutely loved Jallianwala Bagh! Highly recommended.
+734,23,999,5,Absolutely loved City Palace Jaipur! Highly recommended.
+735,20,744,5,Absolutely loved Rock Garden! Highly recommended.
+736,13,121,5,Absolutely loved Qutub Minar! Highly recommended.
+737,13,899,2,Not very impressed with Qutub Minar.
+738,29,988,5,Absolutely loved City Palace Udaipur! Highly recommended.
+739,84,838,5,Absolutely loved Bangalore Palace! Highly recommended.
+740,6,99,3,"Ayodhya Ram Mandir was okay, but could be better."
+741,91,361,4,Munnar is a great place to visit.
+742,70,935,5,Absolutely loved Araku Valley! Highly recommended.
+743,73,860,3,"Marine Drive was okay, but could be better."
+744,72,86,5,Absolutely loved Gateway of India! Highly recommended.
+745,65,713,4,Chilika Lake is a great place to visit.
+746,88,271,3,"Kodaikanal was okay, but could be better."
+747,98,629,4,Basilica of Bom Jesus is a great place to visit.
+748,58,926,5,Absolutely loved Howrah Bridge! Highly recommended.
+749,63,855,5,Absolutely loved Jagannath Temple! Highly recommended.
+750,47,329,4,Rishikesh is a great place to visit.
+751,12,963,4,Red Fort is a great place to visit.
+752,67,233,4,Golconda Fort is a great place to visit.
+753,19,922,5,Absolutely loved Jallianwala Bagh! Highly recommended.
+754,45,460,1,Terrible experience at Dharamshala. Avoid.
+755,74,808,5,Absolutely loved Elephanta Caves! Highly recommended.
+756,63,202,5,Absolutely loved Jagannath Temple! Highly recommended.
+757,24,719,1,Terrible experience at Jantar Mantar Jaipur. Avoid.
+758,18,900,1,Terrible experience at Wagah Border. Avoid.
+759,66,168,2,Not very impressed with Charminar.
+760,37,467,2,Not very impressed with Sonamarg.
+761,44,259,3,"Solang Valley was okay, but could be better."
+762,83,498,5,Absolutely loved Jog Falls! Highly recommended.
+763,91,637,5,Absolutely loved Munnar! Highly recommended.
+764,27,558,1,Terrible experience at Umaid Bhawan Palace. Avoid.
+765,77,260,5,Absolutely loved Ellora Caves! Highly recommended.
+766,101,965,2,Not very impressed with Dwarkadhish Temple.
+767,46,175,4,Dalhousie is a great place to visit.
+768,25,55,4,Jal Mahal is a great place to visit.
+769,92,445,4,Periyar National Park is a great place to visit.
+770,10,74,5,Absolutely loved Rumi Darwaza! Highly recommended.
+771,34,107,5,Absolutely loved Dal Lake! Highly recommended.
+772,70,685,3,"Araku Valley was okay, but could be better."
+773,31,322,3,"Sam Sand Dunes was okay, but could be better."
+774,32,73,5,Absolutely loved Pushkar Lake! Highly recommended.
+775,13,14,2,Not very impressed with Qutub Minar.
+776,1,502,3,"Taj Mahal was okay, but could be better."
+777,45,967,5,Absolutely loved Dharamshala! Highly recommended.
+778,94,697,5,Absolutely loved Fort Kochi! Highly recommended.
+779,58,305,5,Absolutely loved Howrah Bridge! Highly recommended.
+780,19,729,1,Terrible experience at Jallianwala Bagh. Avoid.
+781,7,982,5,Absolutely loved Mathura! Highly recommended.
+782,99,276,2,Not very impressed with Statue of Unity.
+783,3,787,4,Fatehpur Sikri is a great place to visit.
+784,20,49,3,"Rock Garden was okay, but could be better."
+785,70,407,5,Absolutely loved Araku Valley! Highly recommended.
+786,16,851,5,Absolutely loved Akshardham! Highly recommended.
+787,22,460,4,Hawa Mahal is a great place to visit.
+788,60,891,2,Not very impressed with Tiger Hill.
+789,39,890,5,Absolutely loved Nubra Valley! Highly recommended.
+790,81,719,2,Not very impressed with Coorg.
+791,1,107,5,Absolutely loved Taj Mahal! Highly recommended.
+792,19,771,3,"Jallianwala Bagh was okay, but could be better."
+793,69,810,5,Absolutely loved Tirupati Temple! Highly recommended.
+794,88,467,4,Kodaikanal is a great place to visit.
+795,29,993,5,Absolutely loved City Palace Udaipur! Highly recommended.
+796,53,821,5,Absolutely loved Jim Corbett National Park! Highly recommended.
+797,70,363,4,Araku Valley is a great place to visit.
+798,91,402,4,Munnar is a great place to visit.
+799,61,130,4,Sundarbans National Park is a great place to visit.
+800,30,470,5,Absolutely loved Jaisalmer Fort! Highly recommended.
+801,96,860,1,Terrible experience at Calangute Beach. Avoid.
+802,12,272,5,Absolutely loved Red Fort! Highly recommended.
+803,32,94,4,Pushkar Lake is a great place to visit.
+804,11,623,1,Terrible experience at India Gate. Avoid.
+805,31,616,1,Terrible experience at Sam Sand Dunes. Avoid.
+806,103,286,4,Gir National Park is a great place to visit.
+807,82,386,5,Absolutely loved Hampi! Highly recommended.
+808,48,818,4,Haridwar is a great place to visit.
+809,46,813,5,Absolutely loved Dalhousie! Highly recommended.
+810,85,755,4,Meenakshi Temple is a great place to visit.
+811,69,646,3,"Tirupati Temple was okay, but could be better."
+812,15,566,4,Lotus Temple is a great place to visit.
+813,11,721,2,Not very impressed with India Gate.
+814,50,129,2,Not very impressed with Badrinath Temple.
+815,103,817,4,Gir National Park is a great place to visit.
+816,88,472,3,"Kodaikanal was okay, but could be better."
+817,35,447,5,Absolutely loved Gulmarg! Highly recommended.
+818,97,781,5,Absolutely loved Dudhsagar Falls! Highly recommended.
+819,73,552,1,Terrible experience at Marine Drive. Avoid.
+820,50,835,4,Badrinath Temple is a great place to visit.
+821,50,175,3,"Badrinath Temple was okay, but could be better."
+822,15,699,4,Lotus Temple is a great place to visit.
+823,64,700,5,Absolutely loved Puri Beach! Highly recommended.
+824,29,95,5,Absolutely loved City Palace Udaipur! Highly recommended.
+825,35,520,4,Gulmarg is a great place to visit.
+826,35,120,4,Gulmarg is a great place to visit.
+827,48,740,3,"Haridwar was okay, but could be better."
+828,44,888,5,Absolutely loved Solang Valley! Highly recommended.
+829,30,169,3,"Jaisalmer Fort was okay, but could be better."
+830,73,247,5,Absolutely loved Marine Drive! Highly recommended.
+831,57,385,4,Victoria Memorial is a great place to visit.
+832,13,513,4,Qutub Minar is a great place to visit.
+833,13,460,5,Absolutely loved Qutub Minar! Highly recommended.
+834,57,410,4,Victoria Memorial is a great place to visit.
+835,10,422,2,Not very impressed with Rumi Darwaza.
+836,41,265,5,Absolutely loved Shimla! Highly recommended.
+837,60,951,2,Not very impressed with Tiger Hill.
+838,73,406,2,Not very impressed with Marine Drive.
+839,53,21,4,Jim Corbett National Park is a great place to visit.
+840,49,453,3,"Kedarnath Temple was okay, but could be better."
+841,32,285,4,Pushkar Lake is a great place to visit.
+842,2,333,4,Agra Fort is a great place to visit.
+843,28,395,2,Not very impressed with Lake Pichola.
+844,2,929,4,Agra Fort is a great place to visit.
+845,43,870,3,"Manali was okay, but could be better."
+846,24,890,5,Absolutely loved Jantar Mantar Jaipur! Highly recommended.
+847,89,693,2,Not very impressed with Mahabalipuram.
+848,44,564,5,Absolutely loved Solang Valley! Highly recommended.
+849,64,991,1,Terrible experience at Puri Beach. Avoid.
+850,49,6,5,Absolutely loved Kedarnath Temple! Highly recommended.
+851,36,439,3,"Pahalgam was okay, but could be better."
+852,42,471,5,Absolutely loved Kufri! Highly recommended.
+853,103,970,2,Not very impressed with Gir National Park.
+854,62,650,5,Absolutely loved Konark Sun Temple! Highly recommended.
+855,47,662,5,Absolutely loved Rishikesh! Highly recommended.
+856,82,694,3,"Hampi was okay, but could be better."
+857,42,894,3,"Kufri was okay, but could be better."
+858,77,867,3,"Ellora Caves was okay, but could be better."
+859,73,115,4,Marine Drive is a great place to visit.
+860,50,747,5,Absolutely loved Badrinath Temple! Highly recommended.
+861,89,267,4,Mahabalipuram is a great place to visit.
+862,102,375,5,Absolutely loved Rann of Kutch! Highly recommended.
+863,70,600,3,"Araku Valley was okay, but could be better."
+864,78,615,4,Mahabaleshwar is a great place to visit.
+865,76,659,5,Absolutely loved Ajanta Caves! Highly recommended.
+866,9,582,4,Bara Imambara is a great place to visit.
+867,93,500,5,Absolutely loved Kovalam Beach! Highly recommended.
+868,33,812,3,"Ajmer Sharif Dargah was okay, but could be better."
+869,102,36,2,Not very impressed with Rann of Kutch.
+870,67,486,4,Golconda Fort is a great place to visit.
+871,72,36,5,Absolutely loved Gateway of India! Highly recommended.
+872,10,661,5,Absolutely loved Rumi Darwaza! Highly recommended.
+873,59,20,5,Absolutely loved Darjeeling! Highly recommended.
+874,71,728,3,"RK Beach was okay, but could be better."
+875,45,683,4,Dharamshala is a great place to visit.
+876,9,190,3,"Bara Imambara was okay, but could be better."
+877,100,758,2,Not very impressed with Somnath Temple.
+878,16,20,4,Akshardham is a great place to visit.
+879,43,405,1,Terrible experience at Manali. Avoid.
+880,13,984,1,Terrible experience at Qutub Minar. Avoid.
+881,81,412,5,Absolutely loved Coorg! Highly recommended.
+882,12,278,5,Absolutely loved Red Fort! Highly recommended.
+883,16,57,5,Absolutely loved Akshardham! Highly recommended.
+884,3,849,3,"Fatehpur Sikri was okay, but could be better."
+885,69,570,2,Not very impressed with Tirupati Temple.
+886,84,36,5,Absolutely loved Bangalore Palace! Highly recommended.
+887,102,407,4,Rann of Kutch is a great place to visit.
+888,51,386,1,Terrible experience at Valley of Flowers. Avoid.
+889,10,12,2,Not very impressed with Rumi Darwaza.
+890,79,163,4,Lonavala is a great place to visit.
+891,75,698,4,Shirdi is a great place to visit.
+892,36,444,5,Absolutely loved Pahalgam! Highly recommended.
+893,102,332,5,Absolutely loved Rann of Kutch! Highly recommended.
+894,26,456,1,Terrible experience at Mehrangarh Fort. Avoid.
+895,62,563,1,Terrible experience at Konark Sun Temple. Avoid.
+896,27,929,4,Umaid Bhawan Palace is a great place to visit.
+897,13,926,5,Absolutely loved Qutub Minar! Highly recommended.
+898,67,425,5,Absolutely loved Golconda Fort! Highly recommended.
+899,69,419,4,Tirupati Temple is a great place to visit.
+900,34,663,5,Absolutely loved Dal Lake! Highly recommended.
+901,62,677,5,Absolutely loved Konark Sun Temple! Highly recommended.
+902,75,475,5,Absolutely loved Shirdi! Highly recommended.
+903,101,187,2,Not very impressed with Dwarkadhish Temple.
+904,23,789,1,Terrible experience at City Palace Jaipur. Avoid.
+905,16,513,5,Absolutely loved Akshardham! Highly recommended.
+906,99,726,5,Absolutely loved Statue of Unity! Highly recommended.
+907,87,252,5,Absolutely loved Ooty! Highly recommended.
+908,72,761,3,"Gateway of India was okay, but could be better."
+909,89,665,4,Mahabalipuram is a great place to visit.
+910,73,926,5,Absolutely loved Marine Drive! Highly recommended.
+911,94,164,5,Absolutely loved Fort Kochi! Highly recommended.
+912,16,56,5,Absolutely loved Akshardham! Highly recommended.
+913,27,76,1,Terrible experience at Umaid Bhawan Palace. Avoid.
+914,41,244,5,Absolutely loved Shimla! Highly recommended.
+915,47,443,5,Absolutely loved Rishikesh! Highly recommended.
+916,19,612,5,Absolutely loved Jallianwala Bagh! Highly recommended.
+917,29,891,3,"City Palace Udaipur was okay, but could be better."
+918,92,270,1,Terrible experience at Periyar National Park. Avoid.
+919,54,233,5,Absolutely loved Bodh Gaya! Highly recommended.
+920,54,426,5,Absolutely loved Bodh Gaya! Highly recommended.
+921,103,415,5,Absolutely loved Gir National Park! Highly recommended.
+922,8,211,2,Not very impressed with Vrindavan.
+923,93,255,4,Kovalam Beach is a great place to visit.
+924,96,860,4,Calangute Beach is a great place to visit.
+925,12,168,5,Absolutely loved Red Fort! Highly recommended.
+926,46,72,4,Dalhousie is a great place to visit.
+927,35,687,5,Absolutely loved Gulmarg! Highly recommended.
+928,94,28,3,"Fort Kochi was okay, but could be better."
+929,73,985,4,Marine Drive is a great place to visit.
+930,56,633,5,Absolutely loved Rajgir! Highly recommended.
+931,3,113,4,Fatehpur Sikri is a great place to visit.
+932,94,8,5,Absolutely loved Fort Kochi! Highly recommended.
+933,15,148,4,Lotus Temple is a great place to visit.
+934,33,142,3,"Ajmer Sharif Dargah was okay, but could be better."
+935,23,675,5,Absolutely loved City Palace Jaipur! Highly recommended.
+936,7,785,4,Mathura is a great place to visit.
+937,18,636,3,"Wagah Border was okay, but could be better."
+938,33,939,5,Absolutely loved Ajmer Sharif Dargah! Highly recommended.
+939,68,910,4,Ramoji Film City is a great place to visit.
+940,86,507,5,Absolutely loved Marina Beach! Highly recommended.
+941,59,493,1,Terrible experience at Darjeeling. Avoid.
+942,101,706,3,"Dwarkadhish Temple was okay, but could be better."
+943,79,523,4,Lonavala is a great place to visit.
+944,46,82,5,Absolutely loved Dalhousie! Highly recommended.
+945,26,173,2,Not very impressed with Mehrangarh Fort.
+946,77,591,1,Terrible experience at Ellora Caves. Avoid.
+947,54,523,3,"Bodh Gaya was okay, but could be better."
+948,91,214,5,Absolutely loved Munnar! Highly recommended.
+949,63,458,2,Not very impressed with Jagannath Temple Management.
+950,77,274,2,Not very impressed with Ellora Caves.
+951,79,758,4,Lonavala is a great place to visit.
+952,57,639,5,Absolutely loved Victoria Memorial! Highly recommended.
+953,51,243,2,Not very impressed with Valley of Flowers.
+954,37,923,4,Sonamarg is a great place to visit.
+955,75,823,4,Shirdi is a great place to visit.
+956,55,759,5,Absolutely loved Nalanda Ruins! Highly recommended.
+957,33,2,5,Absolutely loved Ajmer Sharif Dargah! Highly recommended.
+958,62,80,5,Absolutely loved Konark Sun Temple! Highly recommended.
+959,75,761,1,Terrible experience at Shirdi. Avoid.
+960,55,840,5,Absolutely loved Nalanda Ruins! Highly recommended.
+961,15,263,1,Terrible experience at Lotus Temple. Avoid.
+962,83,733,5,Absolutely loved Jog Falls! Highly recommended.
+963,64,753,4,Puri Beach is a great place to visit.
+964,13,680,5,Absolutely loved Qutub Minar! Highly recommended.
+965,57,785,2,Not very impressed with Victoria Memorial.
+966,30,257,4,Jaisalmer Fort is a great place to visit.
+967,68,208,4,Ramoji Film City is a great place to visit.
+968,84,946,4,Bangalore Palace is a great place to visit.
+969,97,395,5,Absolutely loved Dudhsagar Falls! Highly recommended.
+970,21,383,5,Absolutely loved Amer Fort! Highly recommended.
+971,68,261,5,Absolutely loved Ramoji Film City! Highly recommended.
+972,1,404,5,Absolutely loved Taj Mahal! Highly recommended.
+973,33,680,3,"Ajmer Sharif Dargah was okay, but could be better."
+974,99,131,4,Statue of Unity is a great place to visit.
+975,64,753,5,Absolutely loved Puri Beach! Highly recommended.
+976,68,919,5,Absolutely loved Ramoji Film City! Highly recommended.
+977,54,792,4,Bodh Gaya is a great place to visit.
+978,45,440,5,Absolutely loved Dharamshala! Highly recommended.
+979,53,135,2,Not very impressed with Jim Corbett National Park.
+980,45,394,5,Absolutely loved Dharamshala! Highly recommended.
+981,76,635,5,Absolutely loved Ajanta Caves! Highly recommended.
+982,75,274,5,Absolutely loved Shirdi! Highly recommended.
+983,65,607,2,Not very impressed with Chilika Lake.
+984,5,799,5,Absolutely loved Sarnath! Highly recommended.
+985,39,624,5,Absolutely loved Nubra Valley! Highly recommended.
+986,58,130,4,Howrah Bridge is a great place to visit.
+987,58,57,4,Howrah Bridge is a great place to visit.
+988,41,61,3,"Shimla was okay, but could be better."
+989,40,26,5,Absolutely loved Leh Palace! Highly recommended.
+990,82,227,5,Absolutely loved Hampi! Highly recommended.
+991,3,942,5,Absolutely loved Fatehpur Sikri! Highly recommended.
+992,21,850,4,Amer Fort is a great place to visit.
+993,85,591,5,Absolutely loved Meenakshi Temple! Highly recommended.
+994,76,104,5,Absolutely loved Ajanta Caves! Highly recommended.
+995,66,412,5,Absolutely loved Charminar! Highly recommended.
+996,39,259,4,Nubra Valley is a great place to visit.
+997,89,849,1,Terrible experience at Mahabalipuram. Avoid.
+998,19,18,5,Absolutely loved Jallianwala Bagh! Highly recommended.
+999,41,307,5,Absolutely loved Shimla! Highly recommended.
